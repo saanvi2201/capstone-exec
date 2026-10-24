@@ -1,0 +1,30 @@
+variable,level,reference,odds_ratio
+family_history_heart_disease_any,Yes,No,2.3810366294962035
+diabetes,Yes,No,2.3795123515061554
+diabetes,Unknown,No,2.1434290959823525
+tobacco_status,Former,Never,2.0521350323556087
+vigorous_activity_frequency,One to three times a month,Hardly ever or never,0.5792784811941329
+age_years,per +1 SD,,1.5271137729151834
+vigorous_activity_frequency,Every day,Hardly ever or never,0.675498175878957
+family_history_stroke_any,Yes,No,1.4611323763998174
+tobacco_status,Unknown,Never,1.4472957402095479
+sex,Male,Female,1.4126686626899316
+family_history_hypertension_any,Yes,No,1.3739139628259083
+BMI,per +1 SD,,1.3495388917759594
+family_history_diabetes_any,Unknown,No,0.7636557382286846
+vigorous_activity_frequency,More than once a week,Hardly ever or never,0.7857827122704475
+family_history_heart_disease_any,Unknown,No,1.2616549923052438
+moderate_activity_frequency,One to three times a month,Every day,1.2465097077843181
+vigorous_activity_frequency,Unknown,Hardly ever or never,0.8230505973839012
+moderate_activity_frequency,Unknown,Every day,1.1424772519757185
+average_diastolic_bp_mmHg,per +1 SD,,0.8857149891224857
+average_pulse_bpm,per +1 SD,,0.8884354294201264
+family_history_hypertension_any,Unknown,No,0.9176021970586457
+moderate_activity_frequency,Hardly ever or never,Every day,1.0833158901250215
+moderate_activity_frequency,More than once a week,Every day,1.0624529388931905
+moderate_activity_frequency,Once a week,Every day,1.0412425919743997
+vigorous_activity_frequency,Once a week,Hardly ever or never,1.0225341942948556
+family_history_stroke_any,Unknown,No,0.979675082123375
+family_history_diabetes_any,Yes,No,0.9807787520531528
+average_systolic_bp_mmHg,per +1 SD,,0.9907749695209692
+tobacco_status,Current,Never,0.9954826294547283

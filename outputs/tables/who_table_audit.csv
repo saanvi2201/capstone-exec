@@ -1,0 +1,8 @@
+sex,smoker,age_band,problem
+female,yes,70-74,"risk falls with higher SBP (BMI band <20): [29, 25, 21, 18, 15]"
+female,yes,70-74,"risk falls with higher SBP (BMI band 20-24): [30, 26, 22, 18, 15]"
+female,yes,70-74,"risk falls with higher SBP (BMI band 25-29): [31, 26, 22, 19, 16]"
+female,yes,70-74,"risk falls with higher SBP (BMI band 30-34): [32, 27, 23, 20, 17]"
+female,yes,70-74,"risk falls with higher SBP (BMI band ≥35): [33, 28, 24, 20, 17]"
+female,yes,70-74,some risks lower than in the previous age band 65-69
+female,yes,70-74,some smoker risks are lower than the matching non-smoker risks

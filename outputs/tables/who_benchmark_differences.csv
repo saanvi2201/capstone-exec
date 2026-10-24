@@ -1,0 +1,5 @@
+comparison,AUC_difference,CI_low,CI_high,CI_excludes_zero
+WHO chart (primary: current smoking)  minus  Age only,-0.001481376856022898,-0.011376704488531352,0.00995148127667249,False
+"WHO predictors, re-fit on LASI  minus  WHO chart (primary: current smoking)",0.03702328441928937,0.019383744775301817,0.0545652347461289,True
+"Full LASI logistic model  minus  WHO predictors, re-fit on LASI",0.05624355005159953,0.03907512735868321,0.07239594969346357,True
+WHO chart (primary: current smoking)  minus  WHO chart (sensitivity: any tobacco),0.016335206879719677,0.010498551359449665,0.022085186668821834,True

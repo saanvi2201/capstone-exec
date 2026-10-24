@@ -1,0 +1,20 @@
+variable,original_LASI_variable,meaning
+prim_key,prim_key,Unique LASI participant identifier
+age_years,dm005,Age in years
+sex,dm003,Sex of respondent
+diabetes,ht003,Ever diagnosed with diabetes
+chronic_heart_disease,ht006,Ever diagnosed with chronic heart disease
+heart_attack,ht006a,Ever had a heart attack
+coronary_disease_answer,ht006fs5,Whether coronary disease/blockage was reported
+ever_tobacco_use,hb001,Ever smoked or used smokeless tobacco
+current_smoking,hb003_a,Current smoking status
+current_smokeless_tobacco,hb006,Current smokeless tobacco status
+vigorous_activity_frequency,hb211,Frequency of vigorous physical activity
+vigorous_activity_time,hb212,Time spent in vigorous activity
+moderate_activity_frequency,hb213,Frequency of moderate physical activity
+moderate_activity_time,hb214,Time spent in moderate activity
+average_systolic_bp_mmHg,bm017,Average systolic blood pressure
+average_diastolic_bp_mmHg,bm018,Average diastolic blood pressure
+average_pulse_bpm,bm019,Average pulse
+height_cm,bm067,Height in centimetres
+weight_kg,bm071,Weight in kilograms

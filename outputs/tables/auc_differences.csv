@@ -1,0 +1,9 @@
+outcome,comparison,AUC_difference,CI_low,CI_high,CI_excludes_zero
+chronic_heart_disease,Logistic regression (full)  minus  Age only,0.09630887082359785,0.07901549555121092,0.11499476993007057,True
+chronic_heart_disease,"Logistic regression (full)  minus  WHO-chart predictors, refit on LASI",0.0546058011236793,0.04136930488008943,0.06964744966684189,True
+chronic_heart_disease,"WHO-chart predictors, refit on LASI  minus  Age only",0.04170306969991855,0.02800000908855368,0.05544907930803796,True
+chronic_heart_disease,GBM (sigmoid-calibrated)  minus  Logistic regression (full),0.009265284477524172,0.000913216079448312,0.0174221172718181,True
+ihd_composite,Logistic regression (full)  minus  Age only,0.10572420577423258,0.0836384638066328,0.127253348225176,True
+ihd_composite,"Logistic regression (full)  minus  WHO-chart predictors, refit on LASI",0.05222708837787127,0.036239239763477524,0.06794996646525475,True
+ihd_composite,"WHO-chart predictors, refit on LASI  minus  Age only",0.053497117396361316,0.03659156169560099,0.07112791480429823,True
+ihd_composite,GBM (sigmoid-calibrated)  minus  Logistic regression (full),0.001792419356337338,-0.008785275824343354,0.012421083877388535,False

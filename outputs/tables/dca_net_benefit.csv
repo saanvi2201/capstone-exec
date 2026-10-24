@@ -1,0 +1,1177 @@
+outcome,model,threshold,net_benefit,net_benefit_refer_all
+chronic_heart_disease,Logistic regression (full),0.005,0.028922973074326862,0.028925723143078577
+chronic_heart_disease,Logistic regression (full),0.006,0.028031472416589088,0.027948787250868395
+chronic_heart_disease,Logistic regression (full),0.007,0.027066881103044695,0.026969883713356683
+chronic_heart_disease,Logistic regression (full),0.008,0.0261318407960199,0.02598900658000321
+chronic_heart_disease,Logistic regression (full),0.009000000000000001,0.02507086163531485,0.025006149876249432
+chronic_heart_disease,Logistic regression (full),0.01,0.024144931906125933,0.024021307603397157
+chronic_heart_disease,Logistic regression (full),0.011,0.0233884168641122,0.023034473738486536
+chronic_heart_disease,Logistic regression (full),0.012,0.022643261425665195,0.022045642234173265
+chronic_heart_disease,Logistic regression (full),0.013000000000000001,0.021592745492396176,0.02105480701860505
+chronic_heart_disease,Logistic regression (full),0.014000000000000002,0.020817010283269252,0.020061961995297348
+chronic_heart_disease,Logistic regression (full),0.015,0.020231583200747534,0.01906710104300831
+chronic_heart_disease,Logistic regression (full),0.016,0.019523116126683657,0.018070218015612993
+chronic_heart_disease,Logistic regression (full),0.017,0.01886270579958802,0.01707130674197679
+chronic_heart_disease,Logistic regression (full),0.018000000000000002,0.018398536847331566,0.01607036102582809
+chronic_heart_disease,Logistic regression (full),0.019,0.01785516860143726,0.015067374645630158
+chronic_heart_disease,Logistic regression (full),0.02,0.017392628693268353,0.01406234135445223
+chronic_heart_disease,Logistic regression (full),0.021,0.016893672597177542,0.013055254879839821
+chronic_heart_disease,Logistic regression (full),0.022000000000000002,0.01658995411490604,0.01204610892368424
+chronic_heart_disease,Logistic regression (full),0.023000000000000003,0.01621177632818507,0.011034897162091283
+chronic_heart_disease,Logistic regression (full),0.024,0.015561128782317918,0.010021613245249163
+chronic_heart_disease,Logistic regression (full),0.025,0.01502232427605562,0.009006250797295574
+chronic_heart_disease,Logistic regression (full),0.026000000000000002,0.014746289088438709,0.007988803416183965
+chronic_heart_disease,Logistic regression (full),0.027,0.014497860134067586,0.006969264673549011
+chronic_heart_disease,Logistic regression (full),0.028,0.013883668079356305,0.005947628114571179
+chronic_heart_disease,Logistic regression (full),0.029,0.013512253357312305,0.004923887257840563
+chronic_heart_disease,Logistic regression (full),0.030000000000000002,0.013301533569267065,0.0038980355952197773
+chronic_heart_disease,Logistic regression (full),0.031000000000000003,0.013020295837633294,0.0028700665917060705
+chronic_heart_disease,Logistic regression (full),0.032,0.012455491139344597,0.0018399736852925466
+chronic_heart_disease,Logistic regression (full),0.033,0.011941481835908357,0.0008077502868285222
+chronic_heart_disease,Logistic regression (full),0.034,0.011747782825005406,-0.00022661022012093052
+chronic_heart_disease,Logistic regression (full),0.034999999999999996,0.011443559405047304,-0.0012631144794163843
+chronic_heart_disease,Logistic regression (full),0.036,0.01120538386903656,-0.002301769162486318
+chronic_heart_disease,Logistic regression (full),0.037,0.01099533485221866,-0.0033425809684702115
+chronic_heart_disease,Logistic regression (full),0.038,0.01072206534893102,-0.004385556624362595
+chronic_heart_disease,Logistic regression (full),0.039,0.010288153405708192,-0.005430702885157977
+chronic_heart_disease,Logistic regression (full),0.04,0.010012437810945274,-0.006478026533996678
+chronic_heart_disease,Logistic regression (full),0.041,0.009968976805233476,-0.0075275343823115876
+chronic_heart_disease,Logistic regression (full),0.041999999999999996,0.009957519292888376,-0.008579233269975797
+chronic_heart_disease,Logistic regression (full),0.043,0.00957750432789033,-0.009633130065451218
+chronic_heart_disease,Logistic regression (full),0.044,0.009362809384042131,-0.01068923166593809
+chronic_heart_disease,Logistic regression (full),0.045,0.009266234273657888,-0.011747544997525457
+chronic_heart_disease,Logistic regression (full),0.046,0.008939265934478552,-0.012808077015342569
+chronic_heart_disease,Logistic regression (full),0.047,0.008748492584297817,-0.013870834703711248
+chronic_heart_disease,Logistic regression (full),0.048,0.008667586437560097,-0.014935825076299182
+chronic_heart_disease,Logistic regression (full),0.048999999999999995,0.008470005388410208,-0.016003055176274247
+chronic_heart_disease,Logistic regression (full),0.049999999999999996,0.008360827441738675,-0.017072532076459798
+chronic_heart_disease,Logistic regression (full),0.051,0.00822531179717849,-0.018144262879490843
+chronic_heart_disease,Logistic regression (full),0.052,0.008170959548250308,-0.019218254717971325
+chronic_heart_disease,Logistic regression (full),0.053,0.008060647133918582,-0.02029451475463233
+chronic_heart_disease,Logistic regression (full),0.054,0.007852176748393338,-0.021373050182491346
+chronic_heart_disease,Logistic regression (full),0.055,0.007462949801258259,-0.022453868225012504
+chronic_heart_disease,Logistic regression (full),0.056,0.0071211737920566665,-0.023536976136267818
+chronic_heart_disease,Logistic regression (full),0.057,0.007011707106039261,-0.02462238120109949
+chronic_heart_disease,Logistic regression (full),0.057999999999999996,0.0069549281194874885,-0.025710090735283235
+chronic_heart_disease,Logistic regression (full),0.059,0.006816290492278249,-0.02680011208569267
+chronic_heart_disease,Logistic regression (full),0.06,0.006725944744363289,-0.027892452630464692
+chronic_heart_disease,Logistic regression (full),0.061,0.006706774964368785,-0.028987119779165925
+chronic_heart_disease,Logistic regression (full),0.062,0.006501713182488411,-0.030084120972960364
+chronic_heart_disease,Logistic regression (full),0.063,0.00650849275500831,-0.031183463684777805
+chronic_heart_disease,Logistic regression (full),0.064,0.006435769868605689,-0.032285155419483784
+chronic_heart_disease,Logistic regression (full),0.065,0.006404075877298002,-0.033389203714050054
+chronic_heart_disease,Logistic regression (full),0.066,0.006281014627078739,-0.03449561613772679
+chronic_heart_disease,Logistic regression (full),0.067,0.006142812198386418,-0.035604400292215226
+chronic_heart_disease,Logistic regression (full),0.068,0.006110007900412102,-0.03671556381184209
+chronic_heart_disease,Logistic regression (full),0.069,0.006018083588502173,-0.03782911436373449
+chronic_heart_disease,Logistic regression (full),0.07,0.006018295618680788,-0.038945059647996584
+chronic_heart_disease,Logistic regression (full),0.07100000000000001,0.006074364453298629,-0.04006340739788678
+chronic_heart_disease,Logistic regression (full),0.07200000000000001,0.005971864813861724,-0.04118416537999658
+chronic_heart_disease,Logistic regression (full),0.07300000000000001,0.005839787041062217,-0.04230734139443023
+chronic_heart_disease,Logistic regression (full),0.07400000000000001,0.00579994197479127,-0.04343294327498578
+chronic_heart_disease,Logistic regression (full),0.07500000000000001,0.005755008740083366,-0.0445609788893371
+chronic_heart_disease,Logistic regression (full),0.07600000000000001,0.005637182055092501,-0.045691456139217344
+chronic_heart_disease,Logistic regression (full),0.07700000000000001,0.005374805280207844,-0.04682438296060327
+chronic_heart_disease,Logistic regression (full),0.078,0.005232730059032386,-0.047959767323901094
+chronic_heart_disease,Logistic regression (full),0.079,0.005152737938969649,-0.04909761723413334
+chronic_heart_disease,Logistic regression (full),0.08,0.005016223231667748,-0.050237940731126966
+chronic_heart_disease,Logistic regression (full),0.081,0.0049347387112316544,-0.05138074588970274
+chronic_heart_disease,Logistic regression (full),0.082,0.004707833382109061,-0.0525260408198658
+chronic_heart_disease,Logistic regression (full),0.083,0.00462523804098374,-0.05367383366699762
+chronic_heart_disease,Logistic regression (full),0.084,0.004708336049012579,-0.05482413261204893
+chronic_heart_disease,Logistic regression (full),0.085,0.004591795122746921,-0.05597694587173422
+chronic_heart_disease,Logistic regression (full),0.08600000000000001,0.004545870211306704,-0.05713228169872737
+chronic_heart_disease,Logistic regression (full),0.08700000000000001,0.004412984366230184,-0.05829014838185851
+chronic_heart_disease,Logistic regression (full),0.08800000000000001,0.00434930610107358,-0.059450554246312286
+chronic_heart_disease,Logistic regression (full),0.08900000000000001,0.004208048669932444,-0.06061350765382747
+chronic_heart_disease,Logistic regression (full),0.09000000000000001,0.004243070362473347,-0.0617790170028976
+chronic_heart_disease,Logistic regression (full),0.09100000000000001,0.004183318829395377,-0.06294709072897339
+chronic_heart_disease,Logistic regression (full),0.09200000000000001,0.004146667543340566,-0.0641177373046661
+chronic_heart_disease,Logistic regression (full),0.093,0.004073348801746505,-0.06529096523995237
+chronic_heart_disease,Logistic regression (full),0.094,0.004011619606163443,-0.06646678308238058
+chronic_heart_disease,Logistic regression (full),0.095,0.003928424177455265,-0.06764519941727823
+chronic_heart_disease,Logistic regression (full),0.096,0.00397613701404482,-0.06882622286796108
+chronic_heart_disease,Logistic regression (full),0.097,0.003876905615885138,-0.07000986209594331
+chronic_heart_disease,Logistic regression (full),0.098,0.0038027159104698244,-0.07119612580114945
+chronic_heart_disease,Logistic regression (full),0.099,0.0035088155228298022,-0.07238502272212743
+chronic_heart_disease,Logistic regression (full),0.1,0.0033222775013819796,-0.07357656163626311
+chronic_heart_disease,Logistic regression (full),0.101,0.003331064366709279,-0.07477075135999647
+chronic_heart_disease,Logistic regression (full),0.10200000000000001,0.0033139425367594098,-0.07596760074903877
+chronic_heart_disease,Logistic regression (full),0.10300000000000001,0.0031778676295223995,-0.07716711869859177
+chronic_heart_disease,Logistic regression (full),0.10400000000000001,0.003099680170575693,-0.07836931414356788
+chronic_heart_disease,Logistic regression (full),0.10500000000000001,0.0029714555713054834,-0.07957419605881208
+chronic_heart_disease,Logistic regression (full),0.10600000000000001,0.00302926085456387,-0.0807817734593253
+chronic_heart_disease,Logistic regression (full),0.10700000000000001,0.0030215663006356785,-0.08199205540048915
+chronic_heart_disease,Logistic regression (full),0.10800000000000001,0.0029522789639247708,-0.0832050509782924
+chronic_heart_disease,Logistic regression (full),0.10900000000000001,0.002936328458716518,-0.08442076932955872
+chronic_heart_disease,Logistic regression (full),0.11,0.0029157582872156073,-0.08563921963217619
+chronic_heart_disease,Logistic regression (full),0.111,0.0029400802511626344,-0.08686041110532824
+chronic_heart_disease,Logistic regression (full),0.112,0.002910671865895746,-0.08808435300972614
+chronic_heart_disease,Logistic regression (full),0.113,0.0027215108224379796,-0.08931105464784309
+chronic_heart_disease,Logistic regression (full),0.114,0.0027830374088923335,-0.09054052536414992
+chronic_heart_disease,Logistic regression (full),0.115,0.002615172723950867,-0.09177277454535232
+chronic_heart_disease,Logistic regression (full),0.116,0.0025978703766236684,-0.09300781162062988
+chronic_heart_disease,Logistic regression (full),0.117,0.002502155135984855,-0.09424564606187635
+chronic_heart_disease,Logistic regression (full),0.11800000000000001,0.0024081407023837727,-0.09548628738394196
+chronic_heart_disease,Logistic regression (full),0.11900000000000001,0.0022956726018036945,-0.0967297451448772
+chronic_heart_disease,Logistic regression (full),0.12000000000000001,0.002333785617367707,-0.09797602894617818
+chronic_heart_disease,Logistic regression (full),0.12100000000000001,0.002273728060493889,-0.0992251484330339
+chronic_heart_disease,Logistic regression (full),0.12200000000000001,0.0022785842994594223,-0.10047711329457495
+chronic_heart_disease,Logistic regression (full),0.12300000000000001,0.0022641070587768107,-0.10173193326412408
+chronic_heart_disease,Logistic regression (full),0.12400000000000001,0.002215179808718962,-0.10298961811944843
+chronic_heart_disease,Logistic regression (full),0.125,0.0022459132906894096,-0.10425017768301348
+chronic_heart_disease,Logistic regression (full),0.126,0.002214101119118367,-0.10551362182223889
+chronic_heart_disease,Logistic regression (full),0.127,0.002126139064129524,-0.1067799604497558
+chronic_heart_disease,Logistic regression (full),0.128,0.0020740335022137023,-0.10804920352366607
+chronic_heart_disease,Logistic regression (full),0.129,0.0021163413700727137,-0.10932136104780346
+chronic_heart_disease,Logistic regression (full),0.13,0.0021524561102533317,-0.11059644307199631
+chronic_heart_disease,Logistic regression (full),0.131,0.0021399332451665716,-0.11187445969233237
+chronic_heart_disease,Logistic regression (full),0.132,0.002151225439622166,-0.1131554210514249
+chronic_heart_disease,Logistic regression (full),0.133,0.00214113974533331,-0.11443933733868145
+chronic_heart_disease,Logistic regression (full),0.134,0.0021434398446566246,-0.11572621879057368
+chronic_heart_disease,Logistic regression (full),0.135,0.0022083225491041896,-0.1170160756909096
+chronic_heart_disease,Logistic regression (full),0.136,0.0021936613230145565,-0.11830891837110744
+chronic_heart_disease,Logistic regression (full),0.137,0.002148412053290903,-0.1196047572104714
+chronic_heart_disease,Logistic regression (full),0.138,0.0022091399152728234,-0.12090360263646963
+chronic_heart_disease,Logistic regression (full),0.139,0.002221528825096353,-0.12220546512501371
+chronic_heart_disease,Logistic regression (full),0.14,0.0022029387944000924,-0.12351035520074047
+chronic_heart_disease,Logistic regression (full),0.14100000000000001,0.0022015649343503666,-0.12481828343729551
+chronic_heart_disease,Logistic regression (full),0.14200000000000002,0.002184879796820095,-0.12612926045761869
+chronic_heart_disease,Logistic regression (full),0.14300000000000002,0.0021275768183586148,-0.127443296934232
+chronic_heart_disease,Logistic regression (full),0.14400000000000002,0.0021704561305621417,-0.128760403589529
+chronic_heart_disease,Logistic regression (full),0.14500000000000002,0.002106426929679089,-0.13008059119606644
+chronic_heart_disease,Logistic regression (full),0.14600000000000002,0.0020675311964766336,-0.13140387057685812
+chronic_heart_disease,Logistic regression (full),0.14700000000000002,0.002039392719870751,-0.13273025260567037
+chronic_heart_disease,Logistic regression (full),0.14800000000000002,0.0020040641861116945,-0.13405974820732022
+chronic_heart_disease,Logistic regression (full),0.14900000000000002,0.0019675418442452832,-0.1353923683579751
+chronic_heart_disease,Logistic regression (full),0.15,0.00199297629499561,-0.13672812408545504
+chronic_heart_disease,Logistic regression (full),0.151,0.0020430825847206836,-0.1380670264695369
+chronic_heart_disease,Logistic regression (full),0.152,0.0020088238055007983,-0.1394090866422604
+chronic_heart_disease,Logistic regression (full),0.153,0.0019930453987441776,-0.14075431578823708
+chronic_heart_disease,Logistic regression (full),0.154,0.002018747868223892,-0.14210272514496075
+chronic_heart_disease,Logistic regression (full),0.155,0.001954723424298625,-0.14345432600312047
+chronic_heart_disease,Logistic regression (full),0.156,0.0019320459314800405,-0.14480912970691567
+chronic_heart_disease,Logistic regression (full),0.157,0.00191002283953896,-0.14616714765437344
+chronic_heart_disease,Logistic regression (full),0.158,0.0019477434679334915,-0.14752839129766843
+chronic_heart_disease,Logistic regression (full),0.159,0.0018867611999455755,-0.1488928721434445
+chronic_heart_disease,Logistic regression (full),0.16,0.0019071310116086232,-0.15026060175313904
+chronic_heart_disease,Logistic regression (full),0.161,0.0018380682997408667,-0.15163159174330967
+chronic_heart_disease,Logistic regression (full),0.162,0.0017408185801303746,-0.1530058537859628
+chronic_heart_disease,Logistic regression (full),0.163,0.0016631894291980957,-0.15438339960888509
+chronic_heart_disease,Logistic regression (full),0.164,0.0015958485086529075,-0.15576424099597705
+chronic_heart_disease,Logistic regression (full),0.165,0.001559269520660172,-0.157148389787589
+chronic_heart_disease,Logistic regression (full),0.166,0.0015728312872090385,-0.1585358578808595
+chronic_heart_disease,Logistic regression (full),0.167,0.0015768098284089753,-0.15992665723005622
+chronic_heart_disease,Logistic regression (full),0.168,0.0015413318025258318,-0.16132079984691927
+chronic_heart_disease,Logistic regression (full),0.169,0.0014961294609982575,-0.162718297801007
+chronic_heart_disease,Logistic regression (full),0.17,0.0015111191032787866,-0.16411916322004436
+chronic_heart_disease,Logistic regression (full),0.171,0.0015367673094119267,-0.16552340829027362
+chronic_heart_disease,Logistic regression (full),0.17200000000000001,0.001523541711731199,-0.16693104525680777
+chronic_heart_disease,Logistic regression (full),0.17300000000000001,0.0014612547901363794,-0.1683420864239865
+chronic_heart_disease,Logistic regression (full),0.17400000000000002,0.001428450965511426,-0.16975654415573466
+chronic_heart_disease,Logistic regression (full),0.17500000000000002,0.0012256897331524193,-0.1711744308759234
+chronic_heart_disease,Logistic regression (full),0.17600000000000002,0.0012539245519972947,-0.172595759068734
+chronic_heart_disease,Logistic regression (full),0.17700000000000002,0.0011832091063515952,-0.1740205412790241
+chronic_heart_disease,Logistic regression (full),0.17800000000000002,0.0011910036193727219,-0.17544879011269687
+chronic_heart_disease,Logistic regression (full),0.17900000000000002,0.0011990595136376577,-0.17688051823707288
+chronic_heart_disease,Logistic regression (full),0.18000000000000002,0.0011515592767867976,-0.1783157383812644
+chronic_heart_disease,Logistic regression (full),0.181,0.0010996908011833382,-0.17975446333655287
+chronic_heart_disease,Logistic regression (full),0.182,0.0010590081377951322,-0.1811967059567687
+chronic_heart_disease,Logistic regression (full),0.183,0.0010185912542550405,-0.18264247915867418
+chronic_heart_disease,Logistic regression (full),0.184,0.0010281923714759538,-0.184091795922349
+chronic_heart_disease,Logistic regression (full),0.185,0.0010380612276043098,-0.1855446692915789
+chronic_heart_disease,Logistic regression (full),0.186,0.001070935250039728,-0.18700111237424666
+chronic_heart_disease,Logistic regression (full),0.187,0.0011158230985294925,-0.1884611383427267
+chronic_heart_disease,Logistic regression (full),0.188,0.0010273754380805335,-0.18992476043428178
+chronic_heart_disease,Logistic regression (full),0.189,0.0009773573562520323,-0.1913919919514634
+chronic_heart_disease,Logistic regression (full),0.19,0.0009858116823290954,-0.19286284626251454
+chronic_heart_disease,Logistic regression (full),0.191,0.001009661211864042,-0.19433733680177603
+chronic_heart_disease,Logistic regression (full),0.192,0.0010221171370868433,-0.19581547707009506
+chronic_heart_disease,Logistic regression (full),0.193,0.000973200909948399,-0.19729728063523772
+chronic_heart_disease,Logistic regression (full),0.194,0.0009741614508104637,-0.19878276113230373
+chronic_heart_disease,Logistic regression (full),0.195,0.0009752479836840637,-0.2002719322641451
+chronic_heart_disease,Logistic regression (full),0.196,0.0009764609786886464,-0.20176480780178704
+chronic_heart_disease,Logistic regression (full),0.197,0.0009900063815418544,-0.20326140158485284
+chronic_heart_disease,Logistic regression (full),0.198,0.001003833699333755,-0.20476172752199104
+chronic_heart_disease,Logistic regression (full),0.199,0.0009805529158203982,-0.2062657995913069
+chronic_heart_disease,Logistic regression (full),0.2,0.000945273631840796,-0.207773631840796
+chronic_heart_disease,GBM (sigmoid-calibrated),0.005,0.028925723143078577,0.028925723143078577
+chronic_heart_disease,GBM (sigmoid-calibrated),0.006,0.027948787250868395,0.027948787250868395
+chronic_heart_disease,GBM (sigmoid-calibrated),0.007,0.026969883713356683,0.026969883713356683
+chronic_heart_disease,GBM (sigmoid-calibrated),0.008,0.02598900658000321,0.02598900658000321
+chronic_heart_disease,GBM (sigmoid-calibrated),0.009000000000000001,0.025073924022671706,0.025006149876249432
+chronic_heart_disease,GBM (sigmoid-calibrated),0.01,0.02421528720036183,0.024021307603397157
+chronic_heart_disease,GBM (sigmoid-calibrated),0.011,0.023312054489936562,0.023034473738486536
+chronic_heart_disease,GBM (sigmoid-calibrated),0.012,0.02257699357463694,0.022045642234173265
+chronic_heart_disease,GBM (sigmoid-calibrated),0.013000000000000001,0.021863277331679996,0.02105480701860505
+chronic_heart_disease,GBM (sigmoid-calibrated),0.014000000000000002,0.021106334453493178,0.020061961995297348
+chronic_heart_disease,GBM (sigmoid-calibrated),0.015,0.02067277824077582,0.01906710104300831
+chronic_heart_disease,GBM (sigmoid-calibrated),0.016,0.019822028071026974,0.018070218015612993
+chronic_heart_disease,GBM (sigmoid-calibrated),0.017,0.019309151090933938,0.01707130674197679
+chronic_heart_disease,GBM (sigmoid-calibrated),0.018000000000000002,0.01874649157471299,0.01607036102582809
+chronic_heart_disease,GBM (sigmoid-calibrated),0.019,0.018441837702415545,0.015067374645630158
+chronic_heart_disease,GBM (sigmoid-calibrated),0.02,0.017776424002436793,0.01406234135445223
+chronic_heart_disease,GBM (sigmoid-calibrated),0.021,0.01734265343354728,0.013055254879839821
+chronic_heart_disease,GBM (sigmoid-calibrated),0.022000000000000002,0.016804932393248484,0.01204610892368424
+chronic_heart_disease,GBM (sigmoid-calibrated),0.023000000000000003,0.015928138223926427,0.011034897162091283
+chronic_heart_disease,GBM (sigmoid-calibrated),0.024,0.015620667156023166,0.010021613245249163
+chronic_heart_disease,GBM (sigmoid-calibrated),0.025,0.015169026661563972,0.009006250797295574
+chronic_heart_disease,GBM (sigmoid-calibrated),0.026000000000000002,0.01474649340566163,0.007988803416183965
+chronic_heart_disease,GBM (sigmoid-calibrated),0.027,0.01426884079090672,0.006969264673549011
+chronic_heart_disease,GBM (sigmoid-calibrated),0.028,0.014198759289969904,0.005947628114571179
+chronic_heart_disease,GBM (sigmoid-calibrated),0.029,0.01407724508251738,0.004923887257840563
+chronic_heart_disease,GBM (sigmoid-calibrated),0.030000000000000002,0.013708262809663023,0.0038980355952197773
+chronic_heart_disease,GBM (sigmoid-calibrated),0.031000000000000003,0.013428317648085678,0.0028700665917060705
+chronic_heart_disease,GBM (sigmoid-calibrated),0.032,0.013094856297027259,0.0018399736852925466
+chronic_heart_disease,GBM (sigmoid-calibrated),0.033,0.012795947871809515,0.0008077502868285222
+chronic_heart_disease,GBM (sigmoid-calibrated),0.034,0.01254812892061432,-0.00022661022012093052
+chronic_heart_disease,GBM (sigmoid-calibrated),0.034999999999999996,0.012105534503647566,-0.0012631144794163843
+chronic_heart_disease,GBM (sigmoid-calibrated),0.036,0.011994797795256085,-0.002301769162486318
+chronic_heart_disease,GBM (sigmoid-calibrated),0.037,0.011564038581753745,-0.0033425809684702115
+chronic_heart_disease,GBM (sigmoid-calibrated),0.038,0.01099150815568726,-0.004385556624362595
+chronic_heart_disease,GBM (sigmoid-calibrated),0.039,0.01087533197695187,-0.005430702885157977
+chronic_heart_disease,GBM (sigmoid-calibrated),0.04,0.01072346600331675,-0.006478026533996678
+chronic_heart_disease,GBM (sigmoid-calibrated),0.041,0.010255811661193511,-0.0075275343823115876
+chronic_heart_disease,GBM (sigmoid-calibrated),0.041999999999999996,0.010127026662096616,-0.008579233269975797
+chronic_heart_disease,GBM (sigmoid-calibrated),0.043,0.00985152606871598,-0.009633130065451218
+chronic_heart_disease,GBM (sigmoid-calibrated),0.044,0.009595120631153854,-0.01068923166593809
+chronic_heart_disease,GBM (sigmoid-calibrated),0.045,0.009585840431351099,-0.011747544997525457
+chronic_heart_disease,GBM (sigmoid-calibrated),0.046,0.009304734190681811,-0.012808077015342569
+chronic_heart_disease,GBM (sigmoid-calibrated),0.047,0.009019853513126914,-0.013870834703711248
+chronic_heart_disease,GBM (sigmoid-calibrated),0.048,0.008928048831472886,-0.014935825076299182
+chronic_heart_disease,GBM (sigmoid-calibrated),0.048999999999999995,0.008704532019189021,-0.016003055176274247
+chronic_heart_disease,GBM (sigmoid-calibrated),0.049999999999999996,0.008499607227022784,-0.017072532076459798
+chronic_heart_disease,GBM (sigmoid-calibrated),0.051,0.008283765576752694,-0.018144262879490843
+chronic_heart_disease,GBM (sigmoid-calibrated),0.052,0.007929340638579255,-0.019218254717971325
+chronic_heart_disease,GBM (sigmoid-calibrated),0.053,0.007856283524300359,-0.02029451475463233
+chronic_heart_disease,GBM (sigmoid-calibrated),0.054,0.007826932988335282,-0.021373050182491346
+chronic_heart_disease,GBM (sigmoid-calibrated),0.055,0.007825949616994392,-0.022453868225012504
+chronic_heart_disease,GBM (sigmoid-calibrated),0.056,0.007789442617421366,-0.023536976136267818
+chronic_heart_disease,GBM (sigmoid-calibrated),0.057,0.007571527305149754,-0.02462238120109949
+chronic_heart_disease,GBM (sigmoid-calibrated),0.057999999999999996,0.007497544126501252,-0.025710090735283235
+chronic_heart_disease,GBM (sigmoid-calibrated),0.059,0.007266853828625206,-0.02680011208569267
+chronic_heart_disease,GBM (sigmoid-calibrated),0.06,0.0072975547792950134,-0.027892452630464692
+chronic_heart_disease,GBM (sigmoid-calibrated),0.061,0.007040145385956268,-0.028987119779165925
+chronic_heart_disease,GBM (sigmoid-calibrated),0.062,0.007061706393406102,-0.030084120972960364
+chronic_heart_disease,GBM (sigmoid-calibrated),0.063,0.00708963188327307,-0.031183463684777805
+chronic_heart_disease,GBM (sigmoid-calibrated),0.064,0.007156525066972827,-0.032285155419483784
+chronic_heart_disease,GBM (sigmoid-calibrated),0.065,0.006856892010535557,-0.033389203714050054
+chronic_heart_disease,GBM (sigmoid-calibrated),0.066,0.006491951378013573,-0.03449561613772679
+chronic_heart_disease,GBM (sigmoid-calibrated),0.067,0.00652429172465646,-0.035604400292215226
+chronic_heart_disease,GBM (sigmoid-calibrated),0.068,0.006404031345418827,-0.03671556381184209
+chronic_heart_disease,GBM (sigmoid-calibrated),0.069,0.0063665560489710405,-0.03782911436373449
+chronic_heart_disease,GBM (sigmoid-calibrated),0.07,0.006177713582624511,-0.038945059647996584
+chronic_heart_disease,GBM (sigmoid-calibrated),0.07100000000000001,0.005918737850039361,-0.04006340739788678
+chronic_heart_disease,GBM (sigmoid-calibrated),0.07200000000000001,0.005833762223365928,-0.04118416537999658
+chronic_heart_disease,GBM (sigmoid-calibrated),0.07300000000000001,0.00582025149334235,-0.04230734139443023
+chronic_heart_disease,GBM (sigmoid-calibrated),0.07400000000000001,0.005886872333795384,-0.04343294327498578
+chronic_heart_disease,GBM (sigmoid-calibrated),0.07500000000000001,0.005837031060911657,-0.0445609788893371
+chronic_heart_disease,GBM (sigmoid-calibrated),0.07600000000000001,0.005802588787663414,-0.045691456139217344
+chronic_heart_disease,GBM (sigmoid-calibrated),0.07700000000000001,0.00555381273480916,-0.04682438296060327
+chronic_heart_disease,GBM (sigmoid-calibrated),0.078,0.0053091376091343725,-0.047959767323901094
+chronic_heart_disease,GBM (sigmoid-calibrated),0.079,0.005313875789348588,-0.04909761723413334
+chronic_heart_disease,GBM (sigmoid-calibrated),0.08,0.005368808133246809,-0.050237940731126966
+chronic_heart_disease,GBM (sigmoid-calibrated),0.081,0.005410867317384786,-0.05138074588970274
+chronic_heart_disease,GBM (sigmoid-calibrated),0.082,0.005339858441994819,-0.0525260408198658
+chronic_heart_disease,GBM (sigmoid-calibrated),0.083,0.005186824872366629,-0.05367383366699762
+chronic_heart_disease,GBM (sigmoid-calibrated),0.084,0.005168046231723479,-0.05482413261204893
+chronic_heart_disease,GBM (sigmoid-calibrated),0.085,0.005117037762009623,-0.05597694587173422
+chronic_heart_disease,GBM (sigmoid-calibrated),0.08600000000000001,0.0050840981090172765,-0.05713228169872737
+chronic_heart_disease,GBM (sigmoid-calibrated),0.08700000000000001,0.004937088925580203,-0.05829014838185851
+chronic_heart_disease,GBM (sigmoid-calibrated),0.08800000000000001,0.004909662215239592,-0.059450554246312286
+chronic_heart_disease,GBM (sigmoid-calibrated),0.08900000000000001,0.004920512694485858,-0.06061350765382747
+chronic_heart_disease,GBM (sigmoid-calibrated),0.09000000000000001,0.004894210267344595,-0.0617790170028976
+chronic_heart_disease,GBM (sigmoid-calibrated),0.09100000000000001,0.004552485099256194,-0.06294709072897339
+chronic_heart_disease,GBM (sigmoid-calibrated),0.09200000000000001,0.004377671115786704,-0.0641177373046661
+chronic_heart_disease,GBM (sigmoid-calibrated),0.093,0.004335873005424915,-0.06529096523995237
+chronic_heart_disease,GBM (sigmoid-calibrated),0.094,0.004180861695935335,-0.06646678308238058
+chronic_heart_disease,GBM (sigmoid-calibrated),0.095,0.004174431708859019,-0.06764519941727823
+chronic_heart_disease,GBM (sigmoid-calibrated),0.096,0.004215647426583895,-0.06882622286796108
+chronic_heart_disease,GBM (sigmoid-calibrated),0.097,0.0041941455513132015,-0.07000986209594331
+chronic_heart_disease,GBM (sigmoid-calibrated),0.098,0.004054229958853184,-0.07119612580114945
+chronic_heart_disease,GBM (sigmoid-calibrated),0.099,0.0039061628593988987,-0.07238502272212743
+chronic_heart_disease,GBM (sigmoid-calibrated),0.1,0.0037423991155334443,-0.07357656163626311
+chronic_heart_disease,GBM (sigmoid-calibrated),0.101,0.0037356598542327294,-0.07477075135999647
+chronic_heart_disease,GBM (sigmoid-calibrated),0.10200000000000001,0.0037035313410674914,-0.07596760074903877
+chronic_heart_disease,GBM (sigmoid-calibrated),0.10300000000000001,0.003696511866531334,-0.07716711869859177
+chronic_heart_disease,GBM (sigmoid-calibrated),0.10400000000000001,0.003757107320540156,-0.07836931414356788
+chronic_heart_disease,GBM (sigmoid-calibrated),0.10500000000000001,0.0036938213958142246,-0.07957419605881208
+chronic_heart_disease,GBM (sigmoid-calibrated),0.10600000000000001,0.0036035705143187863,-0.0807817734593253
+chronic_heart_disease,GBM (sigmoid-calibrated),0.10700000000000001,0.003489328274640237,-0.08199205540048915
+chronic_heart_disease,GBM (sigmoid-calibrated),0.10800000000000001,0.0033534123106440886,-0.0832050509782924
+chronic_heart_disease,GBM (sigmoid-calibrated),0.10900000000000001,0.003405196241017136,-0.08442076932955872
+chronic_heart_disease,GBM (sigmoid-calibrated),0.11,0.0032243277992062163,-0.08563921963217619
+chronic_heart_disease,GBM (sigmoid-calibrated),0.111,0.0029697407227081683,-0.08686041110532824
+chronic_heart_disease,GBM (sigmoid-calibrated),0.112,0.0029156021693335123,-0.08808435300972614
+chronic_heart_disease,GBM (sigmoid-calibrated),0.113,0.0027073202196458523,-0.08931105464784309
+chronic_heart_disease,GBM (sigmoid-calibrated),0.114,0.0025678604719068317,-0.09054052536414992
+chronic_heart_disease,GBM (sigmoid-calibrated),0.115,0.0025241026505888635,-0.09177277454535232
+chronic_heart_disease,GBM (sigmoid-calibrated),0.116,0.0025487944890929966,-0.09300781162062988
+chronic_heart_disease,GBM (sigmoid-calibrated),0.117,0.002531284686420671,-0.09424564606187635
+chronic_heart_disease,GBM (sigmoid-calibrated),0.11800000000000001,0.0025845827551584473,-0.09548628738394196
+chronic_heart_disease,GBM (sigmoid-calibrated),0.11900000000000001,0.0025492853552893874,-0.0967297451448772
+chronic_heart_disease,GBM (sigmoid-calibrated),0.12000000000000001,0.002406151062867481,-0.09797602894617818
+chronic_heart_disease,GBM (sigmoid-calibrated),0.12100000000000001,0.0023297618845476826,-0.0992251484330339
+chronic_heart_disease,GBM (sigmoid-calibrated),0.12200000000000001,0.002360634186697492,-0.10047711329457495
+chronic_heart_disease,GBM (sigmoid-calibrated),0.12300000000000001,0.0023566886207502962,-0.10173193326412408
+chronic_heart_disease,GBM (sigmoid-calibrated),0.12400000000000001,0.002431904404916059,-0.10298961811944843
+chronic_heart_disease,GBM (sigmoid-calibrated),0.125,0.0024591329068941008,-0.10425017768301348
+chronic_heart_disease,GBM (sigmoid-calibrated),0.126,0.0023805457836674746,-0.10551362182223889
+chronic_heart_disease,GBM (sigmoid-calibrated),0.127,0.0023171656038250897,-0.1067799604497558
+chronic_heart_disease,GBM (sigmoid-calibrated),0.128,0.0022328723355698574,-0.10804920352366607
+chronic_heart_disease,GBM (sigmoid-calibrated),0.129,0.0021989364315049315,-0.10932136104780346
+chronic_heart_disease,GBM (sigmoid-calibrated),0.13,0.002230228169497341,-0.11059644307199631
+chronic_heart_disease,GBM (sigmoid-calibrated),0.131,0.00226239344130899,-0.11187445969233237
+chronic_heart_disease,GBM (sigmoid-calibrated),0.132,0.0020964302909416053,-0.1131554210514249
+chronic_heart_disease,GBM (sigmoid-calibrated),0.133,0.002046113148215095,-0.11443933733868145
+chronic_heart_disease,GBM (sigmoid-calibrated),0.134,0.002031298472993002,-0.11572621879057368
+chronic_heart_disease,GBM (sigmoid-calibrated),0.135,0.0019520892646593619,-0.1170160756909096
+chronic_heart_disease,GBM (sigmoid-calibrated),0.136,0.0019886677722498612,-0.11830891837110744
+chronic_heart_disease,GBM (sigmoid-calibrated),0.137,0.0019187377135181562,-0.1196047572104714
+chronic_heart_disease,GBM (sigmoid-calibrated),0.138,0.0019152497373919265,-0.12090360263646963
+chronic_heart_disease,GBM (sigmoid-calibrated),0.139,0.0017972275671584007,-0.12220546512501371
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14,0.0017135253962744417,-0.12351035520074047
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14100000000000001,0.0016474090548422031,-0.12481828343729551
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14200000000000002,0.0016474735877720949,-0.12612926045761869
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14300000000000002,0.001622923886982822,-0.127443296934232
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14400000000000002,0.0016403961500906679,-0.128760403589529
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14500000000000002,0.001624625410956911,-0.13008059119606644
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14600000000000002,0.0016598506297552048,-0.13140387057685812
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14700000000000002,0.0016118119834590235,-0.13273025260567037
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14800000000000002,0.0015315441571485294,-0.13405974820732022
+chronic_heart_disease,GBM (sigmoid-calibrated),0.14900000000000002,0.0015425808676944302,-0.1353923683579751
+chronic_heart_disease,GBM (sigmoid-calibrated),0.15,0.001589113257243196,-0.13672812408545504
+chronic_heart_disease,GBM (sigmoid-calibrated),0.151,0.001528224601374752,-0.1380670264695369
+chronic_heart_disease,GBM (sigmoid-calibrated),0.152,0.0015319628273725713,-0.1394090866422604
+chronic_heart_disease,GBM (sigmoid-calibrated),0.153,0.0014772066468131592,-0.14075431578823708
+chronic_heart_disease,GBM (sigmoid-calibrated),0.154,0.0014497253684297188,-0.14210272514496075
+chronic_heart_disease,GBM (sigmoid-calibrated),0.155,0.0014725190614972472,-0.14345432600312047
+chronic_heart_disease,GBM (sigmoid-calibrated),0.156,0.0014055315837872247,-0.14480912970691567
+chronic_heart_disease,GBM (sigmoid-calibrated),0.157,0.0013611657017404083,-0.14616714765437344
+chronic_heart_disease,GBM (sigmoid-calibrated),0.158,0.0014041431795889909,-0.14752839129766843
+chronic_heart_disease,GBM (sigmoid-calibrated),0.159,0.0014291207458545557,-0.1488928721434445
+chronic_heart_disease,GBM (sigmoid-calibrated),0.16,0.0013859275053304905,-0.15026060175313904
+chronic_heart_disease,GBM (sigmoid-calibrated),0.161,0.0014309264167837808,-0.15163159174330967
+chronic_heart_disease,GBM (sigmoid-calibrated),0.162,0.0014478918058870326,-0.1530058537859628
+chronic_heart_disease,GBM (sigmoid-calibrated),0.163,0.0013961257036204878,-0.15438339960888509
+chronic_heart_disease,GBM (sigmoid-calibrated),0.164,0.00136399342997929,-0.15576424099597705
+chronic_heart_disease,GBM (sigmoid-calibrated),0.165,0.0013322608514314653,-0.157148389787589
+chronic_heart_disease,GBM (sigmoid-calibrated),0.166,0.001360583175250844,-0.1585358578808595
+chronic_heart_disease,GBM (sigmoid-calibrated),0.167,0.0013297259202188338,-0.15992665723005622
+chronic_heart_disease,GBM (sigmoid-calibrated),0.168,0.0013490241102181398,-0.16132079984691927
+chronic_heart_disease,GBM (sigmoid-calibrated),0.169,0.0013484921960594141,-0.162718297801007
+chronic_heart_disease,GBM (sigmoid-calibrated),0.17,0.0013786489240544268,-0.16411916322004436
+chronic_heart_disease,GBM (sigmoid-calibrated),0.171,0.001388833876456079,-0.16552340829027362
+chronic_heart_disease,GBM (sigmoid-calibrated),0.17200000000000001,0.0013101160862354893,-0.16693104525680777
+chronic_heart_disease,GBM (sigmoid-calibrated),0.17300000000000001,0.001331312001058793,-0.1683420864239865
+chronic_heart_disease,GBM (sigmoid-calibrated),0.17400000000000002,0.0012926890968884388,-0.16975654415573466
+chronic_heart_disease,GBM (sigmoid-calibrated),0.17500000000000002,0.001304085632443841,-0.1711744308759234
+chronic_heart_disease,GBM (sigmoid-calibrated),0.17600000000000002,0.0012872530551127851,-0.172595759068734
+chronic_heart_disease,GBM (sigmoid-calibrated),0.17700000000000002,0.0012495843987837237,-0.1740205412790241
+chronic_heart_disease,GBM (sigmoid-calibrated),0.17800000000000002,0.0012403917153889913,-0.17544879011269687
+chronic_heart_disease,GBM (sigmoid-calibrated),0.17900000000000002,0.001274565055356591,-0.17688051823707288
+chronic_heart_disease,GBM (sigmoid-calibrated),0.18000000000000002,0.0012983861181895399,-0.1783157383812644
+chronic_heart_disease,GBM (sigmoid-calibrated),0.181,0.0012508884150675195,-0.17975446333655287
+chronic_heart_disease,GBM (sigmoid-calibrated),0.182,0.0012532691067887944,-0.1811967059567687
+chronic_heart_disease,GBM (sigmoid-calibrated),0.183,0.0010679162327895408,-0.18264247915867418
+chronic_heart_disease,GBM (sigmoid-calibrated),0.184,0.001009657594381036,-0.184091795922349
+chronic_heart_disease,GBM (sigmoid-calibrated),0.185,0.0010011293227115952,-0.1855446692915789
+chronic_heart_disease,GBM (sigmoid-calibrated),0.186,0.0009271822704658528,-0.18700111237424666
+chronic_heart_disease,GBM (sigmoid-calibrated),0.187,0.0009302809446004908,-0.1884611383427267
+chronic_heart_disease,GBM (sigmoid-calibrated),0.188,0.0009450285518221703,-0.18992476043428178
+chronic_heart_disease,GBM (sigmoid-calibrated),0.189,0.0009600579102023792,-0.1913919919514634
+chronic_heart_disease,GBM (sigmoid-calibrated),0.19,0.0009637000184263868,-0.19286284626251454
+chronic_heart_disease,GBM (sigmoid-calibrated),0.191,0.0009792200923688112,-0.19433733680177603
+chronic_heart_disease,GBM (sigmoid-calibrated),0.192,0.0009689177873011183,-0.19581547707009506
+chronic_heart_disease,GBM (sigmoid-calibrated),0.193,0.0009235113157878511,-0.19729728063523772
+chronic_heart_disease,GBM (sigmoid-calibrated),0.194,0.000828487833783934,-0.19878276113230373
+chronic_heart_disease,GBM (sigmoid-calibrated),0.195,0.0007577021723679735,-0.2002719322641451
+chronic_heart_disease,GBM (sigmoid-calibrated),0.196,0.0007626048860176729,-0.20176480780178704
+chronic_heart_disease,GBM (sigmoid-calibrated),0.197,0.0007554382508379643,-0.20326140158485284
+chronic_heart_disease,GBM (sigmoid-calibrated),0.198,0.0007353506780312898,-0.20476172752199104
+chronic_heart_disease,GBM (sigmoid-calibrated),0.199,0.0007531009124166928,-0.2062657995913069
+chronic_heart_disease,GBM (sigmoid-calibrated),0.2,0.0007587064676616915,-0.207773631840796
+chronic_heart_disease,Age only,0.005,0.028925723143078577,0.028925723143078577
+chronic_heart_disease,Age only,0.006,0.027948787250868395,0.027948787250868395
+chronic_heart_disease,Age only,0.007,0.026969883713356683,0.026969883713356683
+chronic_heart_disease,Age only,0.008,0.025989809019419035,0.02598900658000321
+chronic_heart_disease,Age only,0.009000000000000001,0.025008860842106323,0.025006149876249432
+chronic_heart_disease,Age only,0.01,0.0240308558219006,0.024021307603397157
+chronic_heart_disease,Age only,0.011,0.023054394357836704,0.023034473738486536
+chronic_heart_disease,Age only,0.012,0.022051483473321653,0.022045642234173265
+chronic_heart_disease,Age only,0.013000000000000001,0.021085706220669697,0.02105480701860505
+chronic_heart_disease,Age only,0.014000000000000002,0.020161363567557745,0.020061961995297348
+chronic_heart_disease,Age only,0.015,0.01922923453797005,0.01906710104300831
+chronic_heart_disease,Age only,0.016,0.018375197184807665,0.018070218015612993
+chronic_heart_disease,Age only,0.017,0.017543209689092683,0.01707130674197679
+chronic_heart_disease,Age only,0.018000000000000002,0.016593306380521016,0.01607036102582809
+chronic_heart_disease,Age only,0.019,0.015624781292315187,0.015067374645630158
+chronic_heart_disease,Age only,0.02,0.01480759467966291,0.01406234135445223
+chronic_heart_disease,Age only,0.021,0.014269459647625,0.013055254879839821
+chronic_heart_disease,Age only,0.022000000000000002,0.013661650845974628,0.01204610892368424
+chronic_heart_disease,Age only,0.023000000000000003,0.013710617842211663,0.011034897162091283
+chronic_heart_disease,Age only,0.024,0.01289250468966642,0.010021613245249163
+chronic_heart_disease,Age only,0.025,0.012159714249266488,0.009006250797295574
+chronic_heart_disease,Age only,0.026000000000000002,0.011792679313902764,0.007988803416183965
+chronic_heart_disease,Age only,0.027,0.011191626656031253,0.006969264673549011
+chronic_heart_disease,Age only,0.028,0.010763466617529633,0.005947628114571179
+chronic_heart_disease,Age only,0.029,0.010089101352147602,0.004923887257840563
+chronic_heart_disease,Age only,0.030000000000000002,0.009549161409447606,0.0038980355952197773
+chronic_heart_disease,Age only,0.031000000000000003,0.009061298255882609,0.0028700665917060705
+chronic_heart_disease,Age only,0.032,0.008339295259240985,0.0018399736852925466
+chronic_heart_disease,Age only,0.033,0.007903913730211405,0.0008077502868285222
+chronic_heart_disease,Age only,0.034,0.0074670127622755746,-0.00022661022012093052
+chronic_heart_disease,Age only,0.034999999999999996,0.006598097594926923,-0.0012631144794163843
+chronic_heart_disease,Age only,0.036,0.00622447926343387,-0.002301769162486318
+chronic_heart_disease,Age only,0.037,0.006449683048929808,-0.0033425809684702115
+chronic_heart_disease,Age only,0.038,0.005557555259047796,-0.004385556624362595
+chronic_heart_disease,Age only,0.039,0.004792892975290043,-0.005430702885157977
+chronic_heart_disease,Age only,0.04,0.004498341625207297,-0.006478026533996678
+chronic_heart_disease,Age only,0.041,0.003736998013062943,-0.0075275343823115876
+chronic_heart_disease,Age only,0.041999999999999996,0.003226352579482547,-0.008579233269975797
+chronic_heart_disease,Age only,0.043,0.0029959398410247615,-0.009633130065451218
+chronic_heart_disease,Age only,0.044,0.0026430608463956368,-0.01068923166593809
+chronic_heart_disease,Age only,0.045,0.0024336433018155284,-0.011747544997525457
+chronic_heart_disease,Age only,0.046,0.002043242904971994,-0.012808077015342569
+chronic_heart_disease,Age only,0.047,0.0016722786904929694,-0.013870834703711248
+chronic_heart_disease,Age only,0.048,0.0014983904009364928,-0.014935825076299182
+chronic_heart_disease,Age only,0.048999999999999995,0.001438391638024391,-0.016003055176274247
+chronic_heart_disease,Age only,0.049999999999999996,0.0012961508248232534,-0.017072532076459798
+chronic_heart_disease,Age only,0.051,0.0010709885766111496,-0.018144262879490843
+chronic_heart_disease,Age only,0.052,0.0009398156894850655,-0.019218254717971325
+chronic_heart_disease,Age only,0.053,0.0005630769069121131,-0.02029451475463233
+chronic_heart_disease,Age only,0.054,0.00044828710569772695,-0.021373050182491346
+chronic_heart_disease,Age only,0.055,0.00021822106399220845,-0.022453868225012504
+chronic_heart_disease,Age only,0.056,0.00011510245383253206,-0.023536976136267818
+chronic_heart_disease,Age only,0.057,-0.0002473317400273293,-0.02462238120109949
+chronic_heart_disease,Age only,0.057999999999999996,-0.0003418153394386869,-0.025710090735283235
+chronic_heart_disease,Age only,0.059,-0.00019392939658773034,-0.02680011208569267
+chronic_heart_disease,Age only,0.06,-0.00027098549804170733,-0.027892452630464692
+chronic_heart_disease,Age only,0.061,-0.00023879537350521111,-0.028987119779165925
+chronic_heart_disease,Age only,0.062,-0.00030731205380347786,-0.030084120972960364
+chronic_heart_disease,Age only,0.063,-0.00037597498101806827,-0.031183463684777805
+chronic_heart_disease,Age only,0.064,-0.000579155504528639,-0.032285155419483784
+chronic_heart_disease,Age only,0.065,-0.0006403809827866015,-0.033389203714050054
+chronic_heart_disease,Age only,0.066,-0.00046587192517072006,-0.03449561613772679
+chronic_heart_disease,Age only,0.067,-0.0005186820452933614,-0.035604400292215226
+chronic_heart_disease,Age only,0.068,-0.0005884739393162948,-0.03671556381184209
+chronic_heart_disease,Age only,0.069,-0.0006354906455905223,-0.03782911436373449
+chronic_heart_disease,Age only,0.07,-0.0006826084630610395,-0.038945059647996584
+chronic_heart_disease,Age only,0.07100000000000001,-0.00032651596698959505,-0.04006340739788678
+chronic_heart_disease,Age only,0.07200000000000001,-0.0003594098473151488,-0.04118416537999658
+chronic_heart_disease,Age only,0.07300000000000001,-0.0003923746960987941,-0.04230734139443023
+chronic_heart_disease,Age only,0.07400000000000001,-0.0002863651504894536,-0.04343294327498578
+chronic_heart_disease,Age only,0.07500000000000001,-0.0003159876294204652,-0.0445609788893371
+chronic_heart_disease,Age only,0.07600000000000001,-0.0001763907734056993,-0.045691456139217344
+chronic_heart_disease,Age only,0.07700000000000001,-0.00020089153366428976,-0.04682438296060327
+chronic_heart_disease,Age only,0.078,-0.00022544544090825707,-0.047959767323901094
+chronic_heart_disease,Age only,0.079,-0.00046456101684843936,-0.04909761723413334
+chronic_heart_disease,Age only,0.08,-0.00048669695003244616,-0.050237940731126966
+chronic_heart_disease,Age only,0.081,-0.000508881057173328,-0.05138074588970274
+chronic_heart_disease,Age only,0.082,-0.0007424749888899727,-0.0525260408198658
+chronic_heart_disease,Age only,0.083,-0.0007622736915205869,-0.05367383366699762
+chronic_heart_disease,Age only,0.084,-0.0007821156227595646,-0.05482413261204893
+chronic_heart_disease,Age only,0.085,-0.0005064839735747491,-0.05597694587173422
+chronic_heart_disease,Age only,0.08600000000000001,-0.0005200474650815942,-0.05713228169872737
+chronic_heart_disease,Age only,0.08700000000000001,-0.0005336406685084981,-0.05829014838185851
+chronic_heart_disease,Age only,0.08800000000000001,-0.000486602077332635,-0.059450554246312286
+chronic_heart_disease,Age only,0.08900000000000001,-0.0004988777299015354,-0.06061350765382747
+chronic_heart_disease,Age only,0.09000000000000001,-0.0005111803619266307,-0.0617790170028976
+chronic_heart_disease,Age only,0.09100000000000001,-0.0004885364158306379,-0.06294709072897339
+chronic_heart_disease,Age only,0.09200000000000001,-0.0004992657856093981,-0.0641177373046661
+chronic_heart_disease,Age only,0.093,-0.0005100188144174388,-0.06529096523995237
+chronic_heart_disease,Age only,0.094,-0.0004945471318902178,-0.06646678308238058
+chronic_heart_disease,Age only,0.095,-0.000503284681564553,-0.06764519941727823
+chronic_heart_disease,Age only,0.096,-0.0005120415621009994,-0.06882622286796108
+chronic_heart_disease,Age only,0.097,-0.0005208178377216907,-0.07000986209594331
+chronic_heart_disease,Age only,0.098,-0.0005090953216180737,-0.07119612580114945
+chronic_heart_disease,Age only,0.099,-0.0005171147591675365,-0.07238502272212743
+chronic_heart_disease,Age only,0.1,-0.0005251520176893312,-0.07357656163626311
+chronic_heart_disease,Age only,0.101,-0.0002978987155435282,-0.07477075135999647
+chronic_heart_disease,Age only,0.10200000000000001,-0.00030282884020875576,-0.07596760074903877
+chronic_heart_disease,Age only,0.10300000000000001,-0.00030776995734815333,-0.07716711869859177
+chronic_heart_disease,Age only,0.10400000000000001,-0.00031272210376687994,-0.07836931414356788
+chronic_heart_disease,Age only,0.10500000000000001,-0.0003704938992189889,-0.07957419605881208
+chronic_heart_disease,Age only,0.10600000000000001,-0.0003749707836655648,-0.0807817734593253
+chronic_heart_disease,Age only,0.10700000000000001,-0.0003794576947290424,-0.08199205540048915
+chronic_heart_disease,Age only,0.10800000000000001,-0.00038395466613122726,-0.0832050509782924
+chronic_heart_disease,Age only,0.10900000000000001,-0.00028499477919046747,-0.08442076932955872
+chronic_heart_disease,Age only,0.11,-0.0002884454133825256,-0.08563921963217619
+chronic_heart_disease,Age only,0.111,-0.0002919038105311463,-0.08686041110532824
+chronic_heart_disease,Age only,0.112,-0.00028864685581103493,-0.08808435300972614
+chronic_heart_disease,Age only,0.113,-0.0002915523846382518,-0.08931105464784309
+chronic_heart_disease,Age only,0.114,-0.00029446447222128636,-0.09054052536414992
+chronic_heart_disease,Age only,0.115,-0.0002973831407932091,-0.09177277454535232
+chronic_heart_disease,Age only,0.116,-0.00027419463767137166,-0.09300781162062988
+chronic_heart_disease,Age only,0.117,-0.0002768715877013573,-0.09424564606187635
+chronic_heart_disease,Age only,0.11800000000000001,-0.0002795546079128168,-0.09548628738394196
+chronic_heart_disease,Age only,0.11900000000000001,-0.0002822437189760618,-0.0967297451448772
+chronic_heart_disease,Age only,0.12000000000000001,-0.0001492537313432836,-0.09797602894617818
+chronic_heart_disease,Age only,0.12100000000000001,-0.00015066872690019757,-0.0992251484330339
+chronic_heart_disease,Age only,0.12200000000000001,-0.00015208694568161473,-0.10047711329457495
+chronic_heart_disease,Age only,0.12300000000000001,-0.00015350839871338862,-0.10173193326412408
+chronic_heart_disease,Age only,0.12400000000000001,-0.00015493309707171907,-0.10298961811944843
+chronic_heart_disease,Age only,0.125,-0.00013503909026297086,-0.10425017768301348
+chronic_heart_disease,Age only,0.126,-0.000136275146009085,-0.10551362182223889
+chronic_heart_disease,Age only,0.127,-0.00013751403349803102,-0.1067799604497558
+chronic_heart_disease,Age only,0.128,-0.00013875576247204344,-0.10804920352366607
+chronic_heart_disease,Age only,0.129,-0.00014000034271809724,-0.10932136104780346
+chronic_heart_disease,Age only,0.13,-0.0001412477840681649,-0.11059644307199631
+chronic_heart_disease,Age only,0.131,-0.00014249809639947558,-0.11187445969233237
+chronic_heart_disease,Age only,0.132,-0.00014375128963477543,-0.1131554210514249
+chronic_heart_disease,Age only,0.133,-0.00012211147262533928,-0.11443933733868145
+chronic_heart_disease,Age only,0.134,-0.00012317167051578137,-0.11572621879057368
+chronic_heart_disease,Age only,0.135,-0.00012423431973082564,-0.1170160756909096
+chronic_heart_disease,Age only,0.136,-0.00012529942878201586,-0.11830891837110744
+chronic_heart_disease,Age only,0.137,-0.00012636700622034673,-0.1196047572104714
+chronic_heart_disease,Age only,0.138,-9.557779547736953e-05,-0.12090360263646963
+chronic_heart_disease,Age only,0.139,-9.638220049577896e-05,-0.12220546512501371
+chronic_heart_disease,Age only,0.14,-9.718847622353351e-05,-0.12351035520074047
+chronic_heart_disease,Age only,0.14100000000000001,-9.799662919396036e-05,-0.12481828343729551
+chronic_heart_disease,Age only,0.14200000000000002,-9.88066659708451e-05,-0.12612926045761869
+chronic_heart_disease,Age only,0.14300000000000002,-5.811084600335546e-05,-0.127443296934232
+chronic_heart_disease,Age only,0.14400000000000002,-5.8585576788952445e-05,-0.128760403589529
+chronic_heart_disease,Age only,0.14500000000000002,-5.906141805591925e-05,-0.13008059119606644
+chronic_heart_disease,Age only,0.14600000000000002,-5.9538373705244286e-05,-0.13140387057685812
+chronic_heart_disease,Age only,0.14700000000000002,-3.429511294640514e-05,-0.13273025260567037
+chronic_heart_disease,Age only,0.14800000000000002,-3.456893934085442e-05,-0.13405974820732022
+chronic_heart_disease,Age only,0.14900000000000002,-3.484340927559617e-05,-0.1353923683579751
+chronic_heart_disease,Age only,0.15,-3.511852502194908e-05,-0.13672812408545504
+chronic_heart_disease,Age only,0.151,-3.5394288861932977e-05,-0.1380670264695369
+chronic_heart_disease,Age only,0.152,-2.6753027316248946e-05,-0.1394090866422604
+chronic_heart_disease,Age only,0.153,-2.6960827503568346e-05,-0.14075431578823708
+chronic_heart_disease,Age only,0.154,-2.7169118944285665e-05,-0.14210272514496075
+chronic_heart_disease,Age only,0.155,-2.7377903382495805e-05,-0.14345432600312047
+chronic_heart_disease,Age only,0.156,-2.7587182570559526e-05,-0.14480912970691567
+chronic_heart_disease,Age only,0.157,-2.779695826915246e-05,-0.14616714765437344
+chronic_heart_disease,Age only,0.158,-2.8007232247314497e-05,-0.14752839129766843
+chronic_heart_disease,Age only,0.159,-2.821800628249951e-05,-0.1488928721434445
+chronic_heart_disease,Age only,0.16,-2.8429282160625446e-05,-0.15026060175313904
+chronic_heart_disease,Age only,0.161,-2.864106167612474e-05,-0.15163159174330967
+chronic_heart_disease,Age only,0.162,-2.885334663199516e-05,-0.1530058537859628
+chronic_heart_disease,Age only,0.163,-1.9377425893233953e-05,-0.15438339960888509
+chronic_heart_disease,Age only,0.164,-1.9519626746649527e-05,-0.15576424099597705
+chronic_heart_disease,Age only,0.165,-1.966216820091161e-05,-0.157148389787589
+chronic_heart_disease,Age only,0.166,-1.98050514812031e-05,-0.1585358578808595
+chronic_heart_disease,Age only,0.167,-1.9948277818590127e-05,-0.15992665723005622
+chronic_heart_disease,Age only,0.168,-2.0091848450057405e-05,-0.16132079984691927
+chronic_heart_disease,Age only,0.169,-2.0235764618543863e-05,-0.162718297801007
+chronic_heart_disease,Age only,0.17,-2.0380027572978485e-05,-0.16411916322004436
+chronic_heart_disease,Age only,0.171,-2.0524638568316438e-05,-0.16552340829027362
+chronic_heart_disease,Age only,0.17200000000000001,-2.0669598865575505e-05,-0.16693104525680777
+chronic_heart_disease,Age only,0.17300000000000001,-2.0814909731872683e-05,-0.1683420864239865
+chronic_heart_disease,Age only,0.17400000000000002,-2.0960572440461138e-05,-0.16975654415573466
+chronic_heart_disease,Age only,0.17500000000000002,-2.1106588270767376e-05,-0.1711744308759234
+chronic_heart_disease,Age only,0.17600000000000002,-2.125295850842873e-05,-0.172595759068734
+chronic_heart_disease,Age only,0.17700000000000002,-2.1399684445331062e-05,-0.1740205412790241
+chronic_heart_disease,Age only,0.17800000000000002,-2.1546767379646782e-05,-0.17544879011269687
+chronic_heart_disease,Age only,0.17900000000000002,-1.0847104307936567e-05,-0.17688051823707288
+chronic_heart_disease,Age only,0.18000000000000002,-1.0921004732435385e-05,-0.1783157383812644
+chronic_heart_disease,Age only,0.181,-1.0995085621951294e-05,-0.17975446333655287
+chronic_heart_disease,Age only,0.182,-1.1069347638336434e-05,-0.1811967059567687
+chronic_heart_disease,Age only,0.183,-1.114379144668335e-05,-0.18264247915867418
+chronic_heart_disease,Age only,0.184,-1.1218417715344842e-05,-0.184091795922349
+chronic_heart_disease,Age only,0.185,-1.1293227115953973e-05,-0.1855446692915789
+chronic_heart_disease,Age only,0.186,-1.1368220323444204e-05,-0.18700111237424666
+chronic_heart_disease,Age only,0.187,-1.1443398016069712e-05,-0.1884611383427267
+chronic_heart_disease,Age only,0.188,-1.1518760875425825e-05,-0.18992476043428178
+chronic_heart_disease,Age only,0.189,-1.1594309586469625e-05,-0.1913919919514634
+chronic_heart_disease,Age only,0.19,-1.1670044837540692e-05,-0.19286284626251454
+chronic_heart_disease,Age only,0.191,-1.174596732038202e-05,-0.19433733680177603
+chronic_heart_disease,Age only,0.192,-1.1822077730161075e-05,-0.19581547707009506
+chronic_heart_disease,Age only,0.193,-1.189837676549101e-05,-0.19729728063523772
+chronic_heart_disease,Age only,0.194,-1.1974865128452034e-05,-0.19878276113230373
+chronic_heart_disease,Age only,0.195,-1.205154352461296e-05,-0.2002719322641451
+chronic_heart_disease,Age only,0.196,-1.2128412663052893e-05,-0.20176480780178704
+chronic_heart_disease,Age only,0.197,-1.2205473256383092e-05,-0.20326140158485284
+chronic_heart_disease,Age only,0.198,-1.2282726020768971e-05,-0.20476172752199104
+chronic_heart_disease,Age only,0.199,-1.2360171675952324e-05,-0.2062657995913069
+chronic_heart_disease,Age only,0.2,-1.2437810945273631e-05,-0.207773631840796
+ihd_composite,Logistic regression (full),0.005,0.018083993424002392,0.018056455745573883
+ihd_composite,Logistic regression (full),0.006,0.017122713363827664,0.01706858497670625
+ihd_composite,Logistic regression (full),0.007,0.01631808250339433,0.016078724538616328
+ihd_composite,Logistic regression (full),0.008,0.015523179105940733,0.015086868414159287
+ihd_composite,Logistic regression (full),0.009000000000000001,0.014777595580369795,0.01409301056190314
+ihd_composite,Logistic regression (full),0.01,0.014156913125677136,0.013097144916006073
+ihd_composite,Logistic regression (full),0.011,0.013578497130569477,0.012099265386093037
+ihd_composite,Logistic regression (full),0.012,0.01313908686734714,0.011099365857131591
+ihd_composite,Logistic regression (full),0.013000000000000001,0.012491942404145839,0.010097440189307003
+ihd_composite,Logistic regression (full),0.014000000000000002,0.012113392607853546,0.009093482217896564
+ihd_composite,Logistic regression (full),0.015,0.011650369552149882,0.00808748575314316
+ihd_composite,Logistic regression (full),0.016,0.01136340163282069,0.007079444580128061
+ihd_composite,Logistic regression (full),0.017,0.010906072793611558,0.00606935245864294
+ihd_composite,Logistic regression (full),0.018000000000000002,0.010529591431194672,0.00505720312306111
+ihd_composite,Logistic regression (full),0.019,0.010260459618010979,0.004042990282207962
+ihd_composite,Logistic regression (full),0.02,0.009905680999047354,0.003026707619230625
+ihd_composite,Logistic regression (full),0.021,0.009512063399643396,0.0020083487914668123
+ihd_composite,Logistic regression (full),0.022000000000000002,0.009301835621046573,0.000987907430312896
+ihd_composite,Logistic regression (full),0.023000000000000003,0.008928975258729384,-3.462285890889691e-05
+ihd_composite,Logistic regression (full),0.024,0.008625075850195965,-0.0010592484970840046
+ihd_composite,Logistic regression (full),0.025,0.008398831444713973,-0.002085975931439988
+ihd_composite,Logistic regression (full),0.026000000000000002,0.008330783604934392,-0.003114811635681714
+ihd_composite,Logistic regression (full),0.027,0.008108430948517868,-0.004145762110127429
+ihd_composite,Logistic regression (full),0.028,0.007869219734799258,-0.005178833881845667
+ihd_composite,Logistic regression (full),0.029,0.007451894303608513,-0.006214033504792986
+ihd_composite,Logistic regression (full),0.030000000000000002,0.007281669329627272,-0.007251367559952565
+ihd_composite,Logistic regression (full),0.031000000000000003,0.007280495335472378,-0.008290842655473675
+ihd_composite,Logistic regression (full),0.032,0.0071408779442637665,-0.009332465426811973
+ihd_composite,Logistic regression (full),0.033,0.00683518600747396,-0.010376242536870722
+ihd_composite,Logistic regression (full),0.034,0.00675649820185309,-0.011422180676142847
+ihd_composite,Logistic regression (full),0.034999999999999996,0.006485911913742818,-0.012470286562853865
+ihd_composite,Logistic regression (full),0.036,0.006354813230463993,-0.013520566943105793
+ihd_composite,Logistic regression (full),0.037,0.006119719100051169,-0.014573028591021796
+ihd_composite,Logistic regression (full),0.038,0.005855239602063695,-0.015627678308891883
+ihd_composite,Logistic regression (full),0.039,0.005668487958597321,-0.016684522927319444
+ihd_composite,Logistic regression (full),0.04,0.005687573689367143,-0.017743569305368738
+ihd_composite,Logistic regression (full),0.041,0.0052816084690254905,-0.018804824330713232
+ihd_composite,Logistic regression (full),0.041999999999999996,0.005334807701368086,-0.01986829491978495
+ihd_composite,Logistic regression (full),0.043,0.0051974868532364705,-0.020933988017924746
+ihd_composite,Logistic regression (full),0.044,0.005116471323185019,-0.022001910599533457
+ihd_composite,Logistic regression (full),0.045,0.005003725929154398,-0.023072069668224074
+ihd_composite,Logistic regression (full),0.046,0.004849699017871979,-0.02414447225697483
+ihd_composite,Logistic regression (full),0.047,0.0047776298566894,-0.0252191254282833
+ihd_composite,Logistic regression (full),0.048,0.004773752274785268,-0.026296036274321415
+ihd_composite,Logistic regression (full),0.048999999999999995,0.0046982038168466396,-0.02737521191709147
+ihd_composite,Logistic regression (full),0.049999999999999996,0.004551806957237661,-0.028456659508583143
+ihd_composite,Logistic regression (full),0.051,0.00451229723836763,-0.02954038623093149
+ihd_composite,Logistic regression (full),0.052,0.004329555771224062,-0.030626399296575936
+ihd_composite,Logistic regression (full),0.053,0.004178149963825279,-0.03171470594842026
+ihd_composite,Logistic regression (full),0.054,0.004052544365286577,-0.03280531345999365
+ihd_composite,Logistic regression (full),0.055,0.003915602231748298,-0.03389822913561268
+ihd_composite,Logistic regression (full),0.056,0.0038393761077153143,-0.03499346031054448
+ihd_composite,Logistic regression (full),0.057,0.003683691324121886,-0.03609101435117072
+ihd_composite,Logistic regression (full),0.057999999999999996,0.0036660245306330405,-0.037190898655152856
+ihd_composite,Logistic regression (full),0.059,0.003540160242955932,-0.038293120651598275
+ihd_composite,Logistic regression (full),0.06,0.0035466292712450615,-0.03939768780122765
+ihd_composite,Logistic regression (full),0.061,0.003510880706083074,-0.040504607596543105
+ihd_composite,Logistic regression (full),0.062,0.003466451928074468,-0.04161388756199785
+ihd_composite,Logistic regression (full),0.063,0.003329788640724961,-0.04272553525416646
+ihd_composite,Logistic regression (full),0.064,0.003243715992184083,-0.043839558261916656
+ihd_composite,Logistic regression (full),0.065,0.003077270635975481,-0.044955964206581794
+ihd_composite,Logistic regression (full),0.066,0.0031095281665176914,-0.0460747607421349
+ihd_composite,Logistic regression (full),0.067,0.0030309520304479215,-0.04719595555536332
+ihd_composite,Logistic regression (full),0.068,0.00307311788367309,-0.04831955636604507
+ihd_composite,Logistic regression (full),0.069,0.0029429638746609242,-0.04944557092712566
+ihd_composite,Logistic regression (full),0.07,0.0026617898434156185,-0.05057400702489677
+ihd_composite,Logistic regression (full),0.07100000000000001,0.0026238459976307142,-0.05170487247917545
+ihd_composite,Logistic regression (full),0.07200000000000001,0.0025737953023189496,-0.052838175143484906
+ihd_composite,Logistic regression (full),0.07300000000000001,0.0024336737252072006,-0.05397392290523623
+ihd_composite,Logistic regression (full),0.07400000000000001,0.0024346341038793706,-0.05511212368591145
+ihd_composite,Logistic regression (full),0.07500000000000001,0.0023845396734352045,-0.05625278544124755
+ihd_composite,Logistic regression (full),0.07600000000000001,0.002337140433090215,-0.05739591616142209
+ihd_composite,Logistic regression (full),0.07700000000000001,0.002259197051023785,-0.058541523871239426
+ihd_composite,Logistic regression (full),0.078,0.002195673427564228,-0.059689616630318854
+ihd_composite,Logistic regression (full),0.079,0.0021627357647301788,-0.06084020253328337
+ihd_composite,Logistic regression (full),0.08,0.0021898331957918814,-0.06199328970994998
+ihd_composite,Logistic regression (full),0.081,0.002073660735703149,-0.0631488863255212
+ihd_composite,Logistic regression (full),0.082,0.0021088603937675413,-0.06430700058077776
+ihd_composite,Logistic regression (full),0.083,0.002059875130799843,-0.06546764071227261
+ihd_composite,Logistic regression (full),0.084,0.002080832907485929,-0.0666308149925262
+ihd_composite,Logistic regression (full),0.085,0.0021263916758476366,-0.06779653173022294
+ihd_composite,Logistic regression (full),0.08600000000000001,0.00200112041813246,-0.06896479927040917
+ihd_composite,Logistic regression (full),0.08700000000000001,0.0020267753259201942,-0.07013562599469221
+ihd_composite,Logistic regression (full),0.08800000000000001,0.0019446563901408978,-0.07130902032144078
+ihd_composite,Logistic regression (full),0.08900000000000001,0.0019233311038201239,-0.07248499070598681
+ihd_composite,Logistic regression (full),0.09000000000000001,0.0019188204810682767,-0.07366354564082857
+ihd_composite,Logistic regression (full),0.09100000000000001,0.0017456087261692845,-0.07484469365583497
+ihd_composite,Logistic regression (full),0.09200000000000001,0.0018285680174850785,-0.07602844331845154
+ihd_composite,Logistic regression (full),0.093,0.0017430864664811367,-0.07721480323390736
+ihd_composite,Logistic regression (full),0.094,0.001718781634671419,-0.07840378204542382
+ihd_composite,Logistic regression (full),0.095,0.0017403328679050753,-0.07959538843442429
+ihd_composite,Logistic regression (full),0.096,0.0017396679112390216,-0.08078963112074555
+ihd_composite,Logistic regression (full),0.097,0.0017140096455247316,-0.08198651886285048
+ihd_composite,Logistic regression (full),0.098,0.00176639081101209,-0.08318606045804211
+ihd_composite,Logistic regression (full),0.099,0.0017597810168246608,-0.08438826474267923
+ihd_composite,Logistic regression (full),0.1,0.00180452459633449,-0.08559314059239333
+ihd_composite,Logistic regression (full),0.101,0.0017063967907571176,-0.08680069692230699
+ihd_composite,Logistic regression (full),0.10200000000000001,0.0015986193822392363,-0.08801094268725387
+ihd_composite,Logistic regression (full),0.10300000000000001,0.0015747427130660932,-0.08922388688199999
+ihd_composite,Logistic regression (full),0.10400000000000001,0.0016537851129093096,-0.09043953854146651
+ihd_composite,Logistic regression (full),0.10500000000000001,0.001509573854314434,-0.09165790674095417
+ihd_composite,Logistic regression (full),0.10600000000000001,0.001562640879804374,-0.09287900059636912
+ihd_composite,Logistic regression (full),0.10700000000000001,0.001575492453663947,-0.09410282926445016
+ihd_composite,Logistic regression (full),0.10800000000000001,0.001563352060941688,-0.09532940194299776
+ihd_composite,Logistic regression (full),0.10900000000000001,0.0015463200172345128,-0.09655872787110437
+ihd_composite,Logistic regression (full),0.11,0.0015242119074367322,-0.09779081632938649
+ihd_composite,Logistic regression (full),0.111,0.0014408040573167784,-0.0990256766402182
+ihd_composite,Logistic regression (full),0.112,0.0014828757916487702,-0.1002633181679662
+ihd_composite,Logistic regression (full),0.113,0.0015007792021354302,-0.10150375031922658
+ihd_composite,Logistic regression (full),0.114,0.0015193977647500845,-0.10274698254306319
+ihd_composite,Logistic regression (full),0.115,0.001521283473513765,-0.10399302433124744
+ihd_composite,Logistic regression (full),0.116,0.0014722281771083058,-0.1052418852185
+ihd_composite,Logistic regression (full),0.117,0.0015129375740043746,-0.10649357478273386
+ihd_composite,Logistic regression (full),0.11800000000000001,0.001498272800875444,-0.1077481026452993
+ihd_composite,Logistic regression (full),0.11900000000000001,0.0015276816238210666,-0.1090054784712304
+ihd_composite,Logistic regression (full),0.12000000000000001,0.0014651069052503815,-0.11026571196949317
+ihd_composite,Logistic regression (full),0.12100000000000001,0.0014190525401397522,-0.11152881289323549
+ihd_composite,Logistic regression (full),0.12200000000000001,0.001380269533287782,-0.11279479104003873
+ihd_composite,Logistic regression (full),0.12300000000000001,0.001398771337525671,-0.11406365625217102
+ihd_composite,Logistic regression (full),0.12400000000000001,0.0013111958702334652,-0.11533541841684247
+ihd_composite,Logistic regression (full),0.125,0.0013023891367935606,-0.1166100874664617
+ihd_composite,Logistic regression (full),0.126,0.0012443140888160958,-0.11788767337889472
+ihd_composite,Logistic regression (full),0.127,0.0012723889989396666,-0.11916818617772507
+ihd_composite,Logistic regression (full),0.128,0.0011723265128153798,-0.12045163593251604
+ihd_composite,Logistic regression (full),0.129,0.0010798701845039429,-0.12173803275907463
+ihd_composite,Logistic regression (full),0.13,0.0010748125663168516,-0.12302738681971723
+ihd_composite,Logistic regression (full),0.131,0.0010557552390621182,-0.12431970832353739
+ihd_composite,Logistic regression (full),0.132,0.0011024277516098497,-0.12561500752667512
+ihd_composite,Logistic regression (full),0.133,0.0010046375711352522,-0.12691329473258822
+ihd_composite,Logistic regression (full),0.134,0.0010221352571198267,-0.12821458029232563
+ihd_composite,Logistic regression (full),0.135,0.0010323590570717456,-0.1295188746048023
+ihd_composite,Logistic regression (full),0.136,0.0009433161552924419,-0.1308261881170764
+ihd_composite,Logistic regression (full),0.137,0.0008965537664696508,-0.13213653132462802
+ihd_composite,Logistic regression (full),0.138,0.0008321135974343296,-0.13344991477164037
+ihd_composite,Logistic regression (full),0.139,0.0008359152276536746,-0.13476634905128224
+ihd_composite,Logistic regression (full),0.14,0.0008063591148123304,-0.136085844805993
+ihd_composite,Logistic regression (full),0.14100000000000001,0.0006695004444487746,-0.1374084127277695
+ihd_composite,Logistic regression (full),0.14200000000000002,0.0006824740048473421,-0.13873406355845455
+ihd_composite,Logistic regression (full),0.14300000000000002,0.0007041393429734093,-0.140062808090028
+ihd_composite,Logistic regression (full),0.14400000000000002,0.0007263208913633461,-0.14139465716489955
+ihd_composite,Logistic regression (full),0.14500000000000002,0.0006992022975787493,-0.1427296216762035
+ihd_composite,Logistic regression (full),0.14600000000000002,0.0007224217087723483,-0.144067712568096
+ihd_composite,Logistic regression (full),0.14700000000000002,0.0006121852191435608,-0.14540894083605393
+ihd_composite,Logistic regression (full),0.14800000000000002,0.0006188678927548249,-0.14675331752717607
+ihd_composite,Logistic regression (full),0.14900000000000002,0.0006258004347586066,-0.14810085374048648
+ihd_composite,Logistic regression (full),0.15,0.0006593580490034901,-0.14945156062723997
+ihd_composite,Logistic regression (full),0.151,0.0006349028636759692,-0.15080544939122967
+ihd_composite,Logistic regression (full),0.152,0.0005522296448152919,-0.15216253128909668
+ihd_composite,Logistic regression (full),0.153,0.0005197675473894545,-0.15352281763064224
+ihd_composite,Logistic regression (full),0.154,0.0005284494102436273,-0.15488631977914183
+ihd_composite,Logistic regression (full),0.155,0.0005282494044665962,-0.15625304915166152
+ihd_composite,Logistic regression (full),0.156,0.0005465831704798813,-0.15762301721937674
+ihd_composite,Logistic regression (full),0.157,0.0005653150106500362,-0.1589962355078932
+ihd_composite,Logistic regression (full),0.158,0.0005750980417911675,-0.16037271559757008
+ihd_composite,Logistic regression (full),0.159,0.0005757226314202861,-0.1617524691238454
+ihd_composite,Logistic regression (full),0.16,0.0005764673228430513,-0.16313550777756428
+ihd_composite,Logistic regression (full),0.161,0.0005179545196385992,-0.1645218433053087
+ihd_composite,Logistic regression (full),0.162,0.0005573927241939234,-0.16591148750973028
+ihd_composite,Logistic regression (full),0.163,0.0005684151294608609,-0.1673044522498853
+ihd_composite,Logistic regression (full),0.164,0.0005298841048355322,-0.16870074944157176
+ihd_composite,Logistic regression (full),0.165,0.000541436928862347,-0.17010039105766947
+ihd_composite,Logistic regression (full),0.166,0.0005431016119700263,-0.171503389128482
+ihd_composite,Logistic regression (full),0.167,0.0005454879605406651,-0.17290975574208164
+ihd_composite,Logistic regression (full),0.168,0.0005580592376288086,-0.17431950304465627
+ihd_composite,Logistic regression (full),0.169,0.0005506375855683912,-0.1757326432408592
+ihd_composite,Logistic regression (full),0.17,0.0005738092108382715,-0.17714918859416146
+ihd_composite,Logistic regression (full),0.171,0.000527026894657179,-0.17856915142720628
+ihd_composite,Logistic regression (full),0.17200000000000001,0.000540539109544847,-0.17999254412216667
+ihd_composite,Logistic regression (full),0.17300000000000001,0.0005439035067348794,-0.1814193791211052
+ihd_composite,Logistic regression (full),0.17400000000000002,0.0005473966752587919,-0.18284966892633658
+ihd_composite,Logistic regression (full),0.17500000000000002,0.000561586572646205,-0.18428342610079274
+ihd_composite,Logistic regression (full),0.17600000000000002,0.0005866935201079165,-0.1857206632683908
+ihd_composite,Logistic regression (full),0.17700000000000002,0.0005302638080604818,-0.1871613931144034
+ihd_composite,Logistic regression (full),0.17800000000000002,0.0005236361732232095,-0.1886056283858321
+ihd_composite,Logistic regression (full),0.17900000000000002,0.0005387157824003287,-0.1900533818917832
+ihd_composite,Logistic regression (full),0.18000000000000002,0.0005431394920734439,-0.19150466650384637
+ihd_composite,Logistic regression (full),0.181,0.0004978774968313154,-0.1929594951564762
+ihd_composite,Logistic regression (full),0.182,0.0005025666098690879,-0.1944178808473765
+ihd_composite,Logistic regression (full),0.183,0.0005073891556528585,-0.19587983663788738
+ihd_composite,Logistic regression (full),0.184,0.0004512939535401667,-0.19734537565337498
+ihd_composite,Logistic regression (full),0.185,0.00045630992888227905,-0.19881451108362452
+ihd_composite,Logistic regression (full),0.186,0.0004728441434464451,-0.20028725618323584
+ihd_composite,Logistic regression (full),0.187,0.0004667465595594529,-0.20176362427202216
+ihd_composite,Logistic regression (full),0.188,0.0004606339569929365,-0.20324362873541127
+ihd_composite,Logistic regression (full),0.189,0.0004162980214694785,-0.2047272830248508
+ihd_composite,Logistic regression (full),0.19,0.00044528827803209654,-0.2062146006582148
+ihd_composite,Logistic regression (full),0.191,0.00047471968353827434,-0.20770559522021506
+ihd_composite,Logistic regression (full),0.192,0.0004690799374362785,-0.20920028036281432
+ihd_composite,Logistic regression (full),0.193,0.00047534059542644555,-0.21069866980564314
+ihd_composite,Logistic regression (full),0.194,0.00048174040682031683,-0.21220077733641932
+ihd_composite,Logistic regression (full),0.195,0.0004882798902020049,-0.21370661681137143
+ihd_composite,Logistic regression (full),0.196,0.0004196126922801425,-0.21521620215566414
+ihd_composite,Logistic regression (full),0.197,0.00045103119566260587,-0.21672954736382816
+ihd_composite,Logistic regression (full),0.198,0.0004706015064963008,-0.21824666650019198
+ihd_composite,Logistic regression (full),0.199,0.0004904694618699173,-0.21976757369931837
+ihd_composite,Logistic regression (full),0.2,0.00048572709609923765,-0.2212922831664425
+ihd_composite,GBM (sigmoid-calibrated),0.005,0.018165605089163248,0.018056455745573883
+ihd_composite,GBM (sigmoid-calibrated),0.006,0.017205309273064785,0.01706858497670625
+ihd_composite,GBM (sigmoid-calibrated),0.007,0.016304486609775626,0.016078724538616328
+ihd_composite,GBM (sigmoid-calibrated),0.008,0.015474164461007644,0.015086868414159287
+ihd_composite,GBM (sigmoid-calibrated),0.009000000000000001,0.01473255312358127,0.01409301056190314
+ihd_composite,GBM (sigmoid-calibrated),0.01,0.014158925980776229,0.013097144916006073
+ihd_composite,GBM (sigmoid-calibrated),0.011,0.01350812708538002,0.012099265386093037
+ihd_composite,GBM (sigmoid-calibrated),0.012,0.013016659234280704,0.011099365857131591
+ihd_composite,GBM (sigmoid-calibrated),0.013000000000000001,0.012548524128067305,0.010097440189307003
+ihd_composite,GBM (sigmoid-calibrated),0.014000000000000002,0.012176650560141083,0.009093482217896564
+ihd_composite,GBM (sigmoid-calibrated),0.015,0.011791984636786388,0.00808748575314316
+ihd_composite,GBM (sigmoid-calibrated),0.016,0.011491794786427912,0.007079444580128061
+ihd_composite,GBM (sigmoid-calibrated),0.017,0.01104762124856684,0.00606935245864294
+ihd_composite,GBM (sigmoid-calibrated),0.018000000000000002,0.010661188494987187,0.00505720312306111
+ihd_composite,GBM (sigmoid-calibrated),0.019,0.01003137731784593,0.004042990282207962
+ihd_composite,GBM (sigmoid-calibrated),0.02,0.009793844305021365,0.003026707619230625
+ihd_composite,GBM (sigmoid-calibrated),0.021,0.009487790402619815,0.0020083487914668123
+ihd_composite,GBM (sigmoid-calibrated),0.022000000000000002,0.009396785577223909,0.000987907430312896
+ihd_composite,GBM (sigmoid-calibrated),0.023000000000000003,0.009008317185772444,-3.462285890889691e-05
+ihd_composite,GBM (sigmoid-calibrated),0.024,0.008785964018218746,-0.0010592484970840046
+ihd_composite,GBM (sigmoid-calibrated),0.025,0.008509964271434904,-0.002085975931439988
+ihd_composite,GBM (sigmoid-calibrated),0.026000000000000002,0.008312881800729187,-0.003114811635681714
+ihd_composite,GBM (sigmoid-calibrated),0.027,0.007922214441440848,-0.004145762110127429
+ihd_composite,GBM (sigmoid-calibrated),0.028,0.007584046624880912,-0.005178833881845667
+ihd_composite,GBM (sigmoid-calibrated),0.029,0.007107374252875048,-0.006214033504792986
+ihd_composite,GBM (sigmoid-calibrated),0.030000000000000002,0.006928319879861185,-0.007251367559952565
+ihd_composite,GBM (sigmoid-calibrated),0.031000000000000003,0.006819484526473212,-0.008290842655473675
+ihd_composite,GBM (sigmoid-calibrated),0.032,0.006416661828952421,-0.009332465426811973
+ihd_composite,GBM (sigmoid-calibrated),0.033,0.006344010854692677,-0.010376242536870722
+ihd_composite,GBM (sigmoid-calibrated),0.034,0.006212830415360745,-0.011422180676142847
+ihd_composite,GBM (sigmoid-calibrated),0.034999999999999996,0.005982051522306276,-0.012470286562853865
+ihd_composite,GBM (sigmoid-calibrated),0.036,0.005688779523205032,-0.013520566943105793
+ihd_composite,GBM (sigmoid-calibrated),0.037,0.005615950379246592,-0.014573028591021796
+ihd_composite,GBM (sigmoid-calibrated),0.038,0.005517594667198613,-0.015627678308891883
+ihd_composite,GBM (sigmoid-calibrated),0.039,0.005551381577948086,-0.016684522927319444
+ihd_composite,GBM (sigmoid-calibrated),0.04,0.005502831332303758,-0.017743569305368738
+ihd_composite,GBM (sigmoid-calibrated),0.041,0.0053736603836040155,-0.018804824330713232
+ihd_composite,GBM (sigmoid-calibrated),0.041999999999999996,0.005349992360868218,-0.01986829491978495
+ihd_composite,GBM (sigmoid-calibrated),0.043,0.005322787083154843,-0.020933988017924746
+ihd_composite,GBM (sigmoid-calibrated),0.044,0.004919283110370995,-0.022001910599533457
+ihd_composite,GBM (sigmoid-calibrated),0.045,0.004632045912002344,-0.023072069668224074
+ihd_composite,GBM (sigmoid-calibrated),0.046,0.004613454392515536,-0.02414447225697483
+ihd_composite,GBM (sigmoid-calibrated),0.047,0.004481752829872958,-0.0252191254282833
+ihd_composite,GBM (sigmoid-calibrated),0.048,0.004444701210330194,-0.026296036274321415
+ihd_composite,GBM (sigmoid-calibrated),0.048999999999999995,0.004413910258052326,-0.02737521191709147
+ihd_composite,GBM (sigmoid-calibrated),0.049999999999999996,0.004247653957790906,-0.028456659508583143
+ihd_composite,GBM (sigmoid-calibrated),0.051,0.004238796044595289,-0.02954038623093149
+ihd_composite,GBM (sigmoid-calibrated),0.052,0.0041290218970798775,-0.030626399296575936
+ihd_composite,GBM (sigmoid-calibrated),0.053,0.0041725210899961705,-0.03171470594842026
+ihd_composite,GBM (sigmoid-calibrated),0.054,0.004255292705936229,-0.03280531345999365
+ihd_composite,GBM (sigmoid-calibrated),0.055,0.004255894556298084,-0.03389822913561268
+ihd_composite,GBM (sigmoid-calibrated),0.056,0.004080867545323974,-0.03499346031054448
+ihd_composite,GBM (sigmoid-calibrated),0.057,0.0037675316484016793,-0.03609101435117072
+ihd_composite,GBM (sigmoid-calibrated),0.057999999999999996,0.0037714782656890463,-0.037190898655152856
+ihd_composite,GBM (sigmoid-calibrated),0.059,0.003801321774884054,-0.038293120651598275
+ihd_composite,GBM (sigmoid-calibrated),0.06,0.003677004465615397,-0.03939768780122765
+ihd_composite,GBM (sigmoid-calibrated),0.061,0.003533269699781103,-0.040504607596543105
+ihd_composite,GBM (sigmoid-calibrated),0.062,0.0034250253100702693,-0.04161388756199785
+ihd_composite,GBM (sigmoid-calibrated),0.063,0.003341219702833856,-0.04272553525416646
+ihd_composite,GBM (sigmoid-calibrated),0.064,0.0032283873264294725,-0.043839558261916656
+ihd_composite,GBM (sigmoid-calibrated),0.065,0.003164119413339173,-0.044955964206581794
+ihd_composite,GBM (sigmoid-calibrated),0.066,0.0030344275514287197,-0.0460747607421349
+ihd_composite,GBM (sigmoid-calibrated),0.067,0.00291187967776138,-0.04719595555536332
+ihd_composite,GBM (sigmoid-calibrated),0.068,0.002754110586488073,-0.04831955636604507
+ihd_composite,GBM (sigmoid-calibrated),0.069,0.002864250105803398,-0.04944557092712566
+ihd_composite,GBM (sigmoid-calibrated),0.07,0.002835349897604924,-0.05057400702489677
+ihd_composite,GBM (sigmoid-calibrated),0.07100000000000001,0.002834755403273209,-0.05170487247917545
+ihd_composite,GBM (sigmoid-calibrated),0.07200000000000001,0.002771350089415014,-0.052838175143484906
+ihd_composite,GBM (sigmoid-calibrated),0.07300000000000001,0.0027990069256920973,-0.05397392290523623
+ihd_composite,GBM (sigmoid-calibrated),0.07400000000000001,0.0026744714405809718,-0.05511212368591145
+ihd_composite,GBM (sigmoid-calibrated),0.07500000000000001,0.0026215125602362184,-0.05625278544124755
+ihd_composite,GBM (sigmoid-calibrated),0.07600000000000001,0.0025584107186259327,-0.05739591616142209
+ihd_composite,GBM (sigmoid-calibrated),0.07700000000000001,0.0024763351578223768,-0.058541523871239426
+ihd_composite,GBM (sigmoid-calibrated),0.078,0.002462162780471669,-0.059689616630318854
+ihd_composite,GBM (sigmoid-calibrated),0.079,0.0024084188261163796,-0.06084020253328337
+ihd_composite,GBM (sigmoid-calibrated),0.08,0.0024822441566542982,-0.06199328970994998
+ihd_composite,GBM (sigmoid-calibrated),0.081,0.0025220784181263956,-0.0631488863255212
+ihd_composite,GBM (sigmoid-calibrated),0.082,0.002488411850123954,-0.06430700058077776
+ihd_composite,GBM (sigmoid-calibrated),0.083,0.00255218941593826,-0.06546764071227261
+ihd_composite,GBM (sigmoid-calibrated),0.084,0.0025089645501343676,-0.0666308149925262
+ihd_composite,GBM (sigmoid-calibrated),0.085,0.002471035365723851,-0.06779653173022294
+ihd_composite,GBM (sigmoid-calibrated),0.08600000000000001,0.0023623838634498303,-0.06896479927040917
+ihd_composite,GBM (sigmoid-calibrated),0.08700000000000001,0.0022955642354475165,-0.07013562599469221
+ihd_composite,GBM (sigmoid-calibrated),0.08800000000000001,0.0023200406236534893,-0.07130902032144078
+ihd_composite,GBM (sigmoid-calibrated),0.08900000000000001,0.002226450841913295,-0.07248499070598681
+ihd_composite,GBM (sigmoid-calibrated),0.09000000000000001,0.0021980211787415494,-0.07366354564082857
+ihd_composite,GBM (sigmoid-calibrated),0.09100000000000001,0.0022054265407609863,-0.07484469365583497
+ihd_composite,GBM (sigmoid-calibrated),0.09200000000000001,0.0020644910394241635,-0.07602844331845154
+ihd_composite,GBM (sigmoid-calibrated),0.093,0.002004590631186247,-0.07721480323390736
+ihd_composite,GBM (sigmoid-calibrated),0.094,0.0019906370445445867,-0.07840378204542382
+ihd_composite,GBM (sigmoid-calibrated),0.095,0.0018468501571474066,-0.07959538843442429
+ihd_composite,GBM (sigmoid-calibrated),0.096,0.001774496538960229,-0.08078963112074555
+ihd_composite,GBM (sigmoid-calibrated),0.097,0.0016977346086562565,-0.08198651886285048
+ihd_composite,GBM (sigmoid-calibrated),0.098,0.0016770274087164997,-0.08318606045804211
+ihd_composite,GBM (sigmoid-calibrated),0.099,0.001596503505821952,-0.08438826474267923
+ihd_composite,GBM (sigmoid-calibrated),0.1,0.0016329286991370387,-0.08559314059239333
+ihd_composite,GBM (sigmoid-calibrated),0.101,0.001448772048762839,-0.08680069692230699
+ihd_composite,GBM (sigmoid-calibrated),0.10200000000000001,0.0014259755899874145,-0.08801094268725387
+ihd_composite,GBM (sigmoid-calibrated),0.10300000000000001,0.0014366736439865172,-0.08922388688199999
+ihd_composite,GBM (sigmoid-calibrated),0.10400000000000001,0.001353986520628278,-0.09043953854146651
+ihd_composite,GBM (sigmoid-calibrated),0.10500000000000001,0.001310022885740789,-0.09165790674095417
+ihd_composite,GBM (sigmoid-calibrated),0.10600000000000001,0.0012106816829979968,-0.09287900059636912
+ihd_composite,GBM (sigmoid-calibrated),0.10700000000000001,0.0012350776329331868,-0.09410282926445016
+ihd_composite,GBM (sigmoid-calibrated),0.10800000000000001,0.0011665939500196479,-0.09532940194299776
+ihd_composite,GBM (sigmoid-calibrated),0.10900000000000001,0.001160970091041995,-0.09655872787110437
+ihd_composite,GBM (sigmoid-calibrated),0.11,0.0011816420626510986,-0.09779081632938649
+ihd_composite,GBM (sigmoid-calibrated),0.111,0.001184260127699252,-0.0990256766402182
+ihd_composite,GBM (sigmoid-calibrated),0.112,0.0012248087274241808,-0.1002633181679662
+ihd_composite,GBM (sigmoid-calibrated),0.113,0.001191142746113102,-0.10150375031922658
+ihd_composite,GBM (sigmoid-calibrated),0.114,0.0011579630511162472,-0.10274698254306319
+ihd_composite,GBM (sigmoid-calibrated),0.115,0.001125271290861801,-0.10399302433124744
+ihd_composite,GBM (sigmoid-calibrated),0.116,0.0011167383845344585,-0.1052418852185
+ihd_composite,GBM (sigmoid-calibrated),0.117,0.0011279892943417908,-0.10649357478273386
+ihd_composite,GBM (sigmoid-calibrated),0.11800000000000001,0.0011595996607846213,-0.1077481026452993
+ihd_composite,GBM (sigmoid-calibrated),0.11900000000000001,0.0011785020995726554,-0.1090054784712304
+ihd_composite,GBM (sigmoid-calibrated),0.12000000000000001,0.0011775202329678493,-0.11026571196949317
+ihd_composite,GBM (sigmoid-calibrated),0.12100000000000001,0.0011336891109679475,-0.11152881289323549
+ihd_composite,GBM (sigmoid-calibrated),0.12200000000000001,0.0011537614359070033,-0.11279479104003873
+ihd_composite,GBM (sigmoid-calibrated),0.12300000000000001,0.0011743339774475388,-0.11406365625217102
+ihd_composite,GBM (sigmoid-calibrated),0.12400000000000001,0.001152642171143818,-0.11533541841684247
+ihd_composite,GBM (sigmoid-calibrated),0.125,0.0011244671235703966,-0.1166100874664617
+ihd_composite,GBM (sigmoid-calibrated),0.126,0.0011250696969790242,-0.11788767337889472
+ihd_composite,GBM (sigmoid-calibrated),0.127,0.001040646086229706,-0.11916818617772507
+ihd_composite,GBM (sigmoid-calibrated),0.128,0.0009492873945877366,-0.12045163593251604
+ihd_composite,GBM (sigmoid-calibrated),0.129,0.0009725695242216657,-0.12173803275907463
+ihd_composite,GBM (sigmoid-calibrated),0.13,0.0009316569234936161,-0.12302738681971723
+ihd_composite,GBM (sigmoid-calibrated),0.131,0.000933302307337711,-0.12431970832353739
+ihd_composite,GBM (sigmoid-calibrated),0.132,0.0009426423048958856,-0.12561500752667512
+ihd_composite,GBM (sigmoid-calibrated),0.133,0.0009100577586158847,-0.12691329473258822
+ihd_composite,GBM (sigmoid-calibrated),0.134,0.0009276763370280461,-0.12821458029232563
+ihd_composite,GBM (sigmoid-calibrated),0.135,0.0008725377804539441,-0.1295188746048023
+ihd_composite,GBM (sigmoid-calibrated),0.136,0.0008750468198482944,-0.1308261881170764
+ihd_composite,GBM (sigmoid-calibrated),0.137,0.0008357675250111137,-0.13213653132462802
+ihd_composite,GBM (sigmoid-calibrated),0.138,0.0007887683273915636,-0.13344991477164037
+ihd_composite,GBM (sigmoid-calibrated),0.139,0.0007499340531334728,-0.13476634905128224
+ihd_composite,GBM (sigmoid-calibrated),0.14,0.0007692851325221083,-0.136085844805993
+ihd_composite,GBM (sigmoid-calibrated),0.14100000000000001,0.0007726744994274971,-0.1374084127277695
+ihd_composite,GBM (sigmoid-calibrated),0.14200000000000002,0.0007012864582734555,-0.13873406355845455
+ihd_composite,GBM (sigmoid-calibrated),0.14300000000000002,0.000655309404221848,-0.140062808090028
+ihd_composite,GBM (sigmoid-calibrated),0.14400000000000002,0.0006592758860067295,-0.14139465716489955
+ihd_composite,GBM (sigmoid-calibrated),0.14500000000000002,0.0006718168742569153,-0.1427296216762035
+ihd_composite,GBM (sigmoid-calibrated),0.14600000000000002,0.000684620572848214,-0.144067712568096
+ihd_composite,GBM (sigmoid-calibrated),0.14700000000000002,0.0007234438379632978,-0.14540894083605393
+ihd_composite,GBM (sigmoid-calibrated),0.14800000000000002,0.0007196736606222966,-0.14675331752717607
+ihd_composite,GBM (sigmoid-calibrated),0.14900000000000002,0.0007158946227000004,-0.14810085374048648
+ihd_composite,GBM (sigmoid-calibrated),0.15,0.0006710799698746633,-0.14945156062723997
+ihd_composite,GBM (sigmoid-calibrated),0.151,0.0006529758841946566,-0.15080544939122967
+ihd_composite,GBM (sigmoid-calibrated),0.152,0.0005588094022854318,-0.15216253128909668
+ihd_composite,GBM (sigmoid-calibrated),0.153,0.0004557744398235696,-0.15352281763064224
+ihd_composite,GBM (sigmoid-calibrated),0.154,0.00047050487941236704,-0.15488631977914183
+ihd_composite,GBM (sigmoid-calibrated),0.155,0.00047636776652791276,-0.15625304915166152
+ihd_composite,GBM (sigmoid-calibrated),0.156,0.0004823625992615106,-0.15762301721937674
+ihd_composite,GBM (sigmoid-calibrated),0.157,0.0004792117312733788,-0.1589962355078932
+ihd_composite,GBM (sigmoid-calibrated),0.158,0.0004947499820429778,-0.16037271559757008
+ihd_composite,GBM (sigmoid-calibrated),0.159,0.0005105621319283308,-0.1617524691238454
+ihd_composite,GBM (sigmoid-calibrated),0.16,0.000507670811063428,-0.16313550777756428
+ihd_composite,GBM (sigmoid-calibrated),0.161,0.0005143324600607068,-0.1645218433053087
+ihd_composite,GBM (sigmoid-calibrated),0.162,0.0005403903437417626,-0.16591148750973028
+ihd_composite,GBM (sigmoid-calibrated),0.163,0.00048794421270367935,-0.1673044522498853
+ihd_composite,GBM (sigmoid-calibrated),0.164,0.0004950828995696807,-0.16870074944157176
+ihd_composite,GBM (sigmoid-calibrated),0.165,0.0004426955385298749,-0.17010039105766947
+ihd_composite,GBM (sigmoid-calibrated),0.166,0.0004500360255809699,-0.171503389128482
+ihd_composite,GBM (sigmoid-calibrated),0.167,0.0004475261932601466,-0.17290975574208164
+ihd_composite,GBM (sigmoid-calibrated),0.168,0.00044501032768855204,-0.17431950304465627
+ihd_composite,GBM (sigmoid-calibrated),0.169,0.00045261989886133413,-0.1757326432408592
+ihd_composite,GBM (sigmoid-calibrated),0.17,0.0003607315227131812,-0.17714918859416146
+ihd_composite,GBM (sigmoid-calibrated),0.171,0.00037889447785786944,-0.17856915142720628
+ihd_composite,GBM (sigmoid-calibrated),0.17200000000000001,0.00033717510795740473,-0.17999254412216667
+ihd_composite,GBM (sigmoid-calibrated),0.17300000000000001,0.00036625687462045275,-0.1814193791211052
+ihd_composite,GBM (sigmoid-calibrated),0.17400000000000002,0.0003642877830060714,-0.18284966892633658
+ihd_composite,GBM (sigmoid-calibrated),0.17500000000000002,0.00037288140710648555,-0.18428342610079274
+ihd_composite,GBM (sigmoid-calibrated),0.17600000000000002,0.00037097603456123015,-0.1857206632683908
+ihd_composite,GBM (sigmoid-calibrated),0.17700000000000002,0.00037978026618395717,-0.1871613931144034
+ihd_composite,GBM (sigmoid-calibrated),0.17800000000000002,0.00032812109280445104,-0.1886056283858321
+ihd_composite,GBM (sigmoid-calibrated),0.17900000000000002,0.00033713729297321773,-0.1900533818917832
+ihd_composite,GBM (sigmoid-calibrated),0.18000000000000002,0.00033536129711917345,-0.19150466650384637
+ihd_composite,GBM (sigmoid-calibrated),0.181,0.00033358096427891674,-0.1929594951564762
+ihd_composite,GBM (sigmoid-calibrated),0.182,0.00033179627854663,-0.1944178808473765
+ihd_composite,GBM (sigmoid-calibrated),0.183,0.00035232478564622234,-0.19587983663788738
+ihd_composite,GBM (sigmoid-calibrated),0.184,0.00035068079939593033,-0.19734537565337498
+ihd_composite,GBM (sigmoid-calibrated),0.185,0.00034903277882355165,-0.19881451108362452
+ihd_composite,GBM (sigmoid-calibrated),0.186,0.00035876422066827084,-0.20028725618323584
+ihd_composite,GBM (sigmoid-calibrated),0.187,0.0003571833655864581,-0.20176362427202216
+ihd_composite,GBM (sigmoid-calibrated),0.188,0.000367132871423246,-0.20324362873541127
+ihd_composite,GBM (sigmoid-calibrated),0.189,0.0003656198648054207,-0.2047272830248508
+ihd_composite,GBM (sigmoid-calibrated),0.19,0.000364103122368786,-0.2062146006582148
+ihd_composite,GBM (sigmoid-calibrated),0.191,0.0003625826302598728,-0.20770559522021506
+ihd_composite,GBM (sigmoid-calibrated),0.192,0.00038473433354395067,-0.20920028036281432
+ihd_composite,GBM (sigmoid-calibrated),0.193,0.0003335409398816994,-0.21069866980564314
+ihd_composite,GBM (sigmoid-calibrated),0.194,0.0003321622974406444,-0.21220077733641932
+ihd_composite,GBM (sigmoid-calibrated),0.195,0.00033078022980097797,-0.21370661681137143
+ihd_composite,GBM (sigmoid-calibrated),0.196,0.00027957656047962253,-0.21521620215566414
+ihd_composite,GBM (sigmoid-calibrated),0.197,0.00027818760403729376,-0.21672954736382816
+ihd_composite,GBM (sigmoid-calibrated),0.198,0.00027679518386318865,-0.21824666650019198
+ihd_composite,GBM (sigmoid-calibrated),0.199,0.0002753992869845289,-0.21976757369931837
+ihd_composite,GBM (sigmoid-calibrated),0.2,0.0002989089822149156,-0.2212922831664425
+ihd_composite,Age only,0.005,0.018057707458229724,0.018056455745573883
+ihd_composite,Age only,0.006,0.017074298528680178,0.01706858497670625
+ihd_composite,Age only,0.007,0.01605524528321576,0.016078724538616328
+ihd_composite,Age only,0.008,0.015117402127396293,0.015086868414159287
+ihd_composite,Age only,0.009000000000000001,0.014165701848193548,0.01409301056190314
+ihd_composite,Age only,0.01,0.013274276164726023,0.013097144916006073
+ihd_composite,Age only,0.011,0.01244723694813224,0.012099265386093037
+ihd_composite,Age only,0.012,0.011576168039288176,0.011099365857131591
+ihd_composite,Age only,0.013000000000000001,0.011006129552159943,0.010097440189307003
+ihd_composite,Age only,0.014000000000000002,0.01058701661855121,0.009093482217896564
+ihd_composite,Age only,0.015,0.009866019485729875,0.00808748575314316
+ihd_composite,Age only,0.016,0.009022352964525011,0.007079444580128061
+ihd_composite,Age only,0.017,0.00862933710066092,0.00606935245864294
+ihd_composite,Age only,0.018000000000000002,0.008099357913879106,0.00505720312306111
+ihd_composite,Age only,0.019,0.00738141664677241,0.004042990282207962
+ihd_composite,Age only,0.02,0.006987759982187466,0.003026707619230625
+ihd_composite,Age only,0.021,0.006365835181668625,0.0020083487914668123
+ihd_composite,Age only,0.022000000000000002,0.005970131311103022,0.000987907430312896
+ihd_composite,Age only,0.023000000000000003,0.005393109418789278,-3.462285890889691e-05
+ihd_composite,Age only,0.024,0.005345243957914268,-0.0010592484970840046
+ihd_composite,Age only,0.025,0.0045998771151962,-0.002085975931439988
+ihd_composite,Age only,0.026000000000000002,0.003940033661529665,-0.003114811635681714
+ihd_composite,Age only,0.027,0.0030871389315944376,-0.004145762110127429
+ihd_composite,Age only,0.028,0.0028384052529255854,-0.005178833881845667
+ihd_composite,Age only,0.029,0.0023552550184617075,-0.006214033504792986
+ihd_composite,Age only,0.030000000000000002,0.002010188584861132,-0.007251367559952565
+ihd_composite,Age only,0.031000000000000003,0.0016215323871789523,-0.008290842655473675
+ihd_composite,Age only,0.032,0.001221574311613848,-0.009332465426811973
+ihd_composite,Age only,0.033,0.0010501483442724628,-0.010376242536870722
+ihd_composite,Age only,0.034,0.0009235441776233094,-0.011422180676142847
+ihd_composite,Age only,0.034999999999999996,0.0006716417717817016,-0.012470286562853865
+ihd_composite,Age only,0.036,0.0003756000143046341,-0.013520566943105793
+ihd_composite,Age only,0.037,0.00026285159893284574,-0.014573028591021796
+ihd_composite,Age only,0.038,0.00034551641187420545,-0.015627678308891883
+ihd_composite,Age only,0.039,-1.9751009750934145e-05,-0.016684522927319444
+ihd_composite,Age only,0.04,-0.00011209086833059365,-0.017743569305368738
+ihd_composite,Age only,0.041,3.283115689256587e-05,-0.018804824330713232
+ihd_composite,Age only,0.041999999999999996,-4.243384298666889e-05,-0.01986829491978495
+ihd_composite,Age only,0.043,-0.00011291075973948999,-0.020933988017924746
+ihd_composite,Age only,0.044,-0.000363943572487617,-0.022001910599533457
+ihd_composite,Age only,0.045,-0.0004235848055122366,-0.023072069668224074
+ihd_composite,Age only,0.046,-0.0002628769770212937,-0.02414447225697483
+ihd_composite,Age only,0.047,-0.00031433013467266303,-0.0252191254282833
+ihd_composite,Age only,0.048,-0.0004508753135090537,-0.026296036274321415
+ihd_composite,Age only,0.048999999999999995,-0.0004967672412099621,-0.02737521191709147
+ihd_composite,Age only,0.049999999999999996,-0.0002254927409691466,-0.028456659508583143
+ihd_composite,Age only,0.051,-0.00025754258284973195,-0.02954038623093149
+ihd_composite,Age only,0.052,-0.00017278704879090077,-0.030626399296575936
+ihd_composite,Age only,0.053,-0.00020158733189854948,-0.03171470594842026
+ihd_composite,Age only,0.054,-0.00012112238532316875,-0.03280531345999365
+ihd_composite,Age only,0.055,-0.00014497349225591144,-0.03389822913561268
+ihd_composite,Age only,0.056,-0.0003347949475938248,-0.03499346031054448
+ihd_composite,Age only,0.057,-0.00035622892666581406,-0.03609101435117072
+ihd_composite,Age only,0.057999999999999996,-0.00037770841312436765,-0.037190898655152856
+ihd_composite,Age only,0.059,-0.0005607058148491268,-0.038293120651598275
+ihd_composite,Age only,0.06,-0.000579798628622549,-0.03939768780122765
+ihd_composite,Age only,0.061,-0.0003490454728420179,-0.040504607596543105
+ihd_composite,Age only,0.062,-0.0003621111301956814,-0.04161388756199785
+ihd_composite,Age only,0.063,-0.000294815066948009,-0.04272553525416646
+ihd_composite,Age only,0.064,-0.0003065733150922212,-0.043839558261916656
+ihd_composite,Age only,0.065,-0.0003183567145693619,-0.044955964206581794
+ihd_composite,Age only,0.066,-0.00033475245759828897,-0.0460747607421349
+ihd_composite,Age only,0.067,-0.0003450428444217193,-0.04719595555536332
+ihd_composite,Age only,0.068,-0.00035535531362030753,-0.04831955636604507
+ihd_composite,Age only,0.069,-0.00038960907617379174,-0.04944557092712566
+ihd_composite,Age only,0.07,-0.00039800963044029085,-0.05057400702489677
+ihd_composite,Age only,0.07100000000000001,-0.00040675002334053366,-0.05170487247917545
+ihd_composite,Age only,0.07200000000000001,-0.0004144355859732667,-0.052838175143484906
+ihd_composite,Age only,0.07300000000000001,-0.0004221377301866527,-0.05397392290523623
+ihd_composite,Age only,0.07400000000000001,-0.00022283675383984528,-0.05511212368591145
+ihd_composite,Age only,0.07500000000000001,-0.00022754782880324655,-0.05625278544124755
+ihd_composite,Age only,0.07600000000000001,-0.00023226910089860328,-0.05739591616142209
+ihd_composite,Age only,0.07700000000000001,-0.0002494146635635834,-0.058541523871239426
+ihd_composite,Age only,0.078,-0.000253629566615476,-0.059689616630318854
+ihd_composite,Age only,0.079,-0.0002578536225513034,-0.06084020253328337
+ihd_composite,Age only,0.08,-0.00018844261922244677,-0.06199328970994998
+ihd_composite,Age only,0.081,-0.0001916833806876934,-0.0631488863255212
+ihd_composite,Age only,0.082,-0.00019493120263543512,-0.06430700058077776
+ihd_composite,Age only,0.083,-0.00020742175465222602,-0.06546764071227261
+ihd_composite,Age only,0.084,-0.00021014998312926376,-0.0666308149925262
+ihd_composite,Age only,0.085,-0.00021288417494723494,-0.06779653173022294
+ihd_composite,Age only,0.08600000000000001,-0.00019687440622908006,-0.06896479927040917
+ihd_composite,Age only,0.08700000000000001,-0.00019938178550808717,-0.07013562599469221
+ihd_composite,Age only,0.08800000000000001,-0.00020189466342586404,-0.07130902032144078
+ihd_composite,Age only,0.08900000000000001,-0.0002044130580898929,-0.07248499070598681
+ihd_composite,Age only,0.09000000000000001,-0.00010839556497903531,-0.07366354564082857
+ihd_composite,Age only,0.09100000000000001,-0.0001097205321588304,-0.07484469365583497
+ihd_composite,Age only,0.09200000000000001,-0.00011104841776853693,-0.07602844331845154
+ihd_composite,Age only,0.093,-9.705479080737887e-05,-0.07721480323390736
+ihd_composite,Age only,0.094,-9.820666707796894e-05,-0.07840378204542382
+ihd_composite,Age only,0.095,-9.936108893147744e-05,-0.07959538843442429
+ihd_composite,Age only,0.096,-0.00010051806481563531,-0.08078963112074555
+ihd_composite,Age only,0.097,-0.0001016776032155942,-0.08198651886285048
+ihd_composite,Age only,0.098,-0.00010283971265413392,-0.08318606045804211
+ihd_composite,Age only,0.099,-0.00010400440169187128,-0.08438826474267923
+ihd_composite,Age only,0.1,-0.00010517167892747029,-0.08559314059239333
+ihd_composite,Age only,0.101,-8.955078147187681e-05,-0.08680069692230699
+ihd_composite,Age only,0.10200000000000001,-9.053813269761363e-05,-0.08801094268725387
+ihd_composite,Age only,0.10300000000000001,-9.152768537535877e-05,-0.08922388688199999
+ihd_composite,Age only,0.10400000000000001,-9.25194468760453e-05,-0.09043953854146651
+ihd_composite,Age only,0.10500000000000001,-7.013506845266176e-05,-0.09165790674095417
+ihd_composite,Age only,0.10600000000000001,-7.088221949615446e-05,-0.09287900059636912
+ihd_composite,Age only,0.10700000000000001,-7.163104389024852e-05,-0.09410282926445016
+ihd_composite,Age only,0.10800000000000001,-7.238154726280466e-05,-0.09532940194299776
+ihd_composite,Age only,0.10900000000000001,-4.266134557238694e-05,-0.09655872787110437
+ihd_composite,Age only,0.11,-4.310110792237546e-05,-0.09779081632938649
+ihd_composite,Age only,0.111,-4.354185961398376e-05,-0.0990256766402182
+ihd_composite,Age only,0.112,-4.398360398958217e-05,-0.1002633181679662
+ihd_composite,Age only,0.113,-2.538648251806498e-05,-0.10150375031922658
+ihd_composite,Age only,0.114,-2.564004813581668e-05,-0.10274698254306319
+ihd_composite,Age only,0.115,-2.5894186783213025e-05,-0.10399302433124744
+ihd_composite,Age only,0.116,-2.614890040492474e-05,-0.1052418852185
+ihd_composite,Age only,0.117,-1.9803143215823962e-05,-0.10649357478273386
+ihd_composite,Age only,0.11800000000000001,-1.9995045295555576e-05,-0.1077481026452993
+ihd_composite,Age only,0.11900000000000001,-2.0187383021325172e-05,-0.1090054784712304
+ihd_composite,Age only,0.12000000000000001,-2.03801578782897e-05,-0.11026571196949317
+ihd_composite,Age only,0.12100000000000001,-2.0573371358364494e-05,-0.11152881289323549
+ihd_composite,Age only,0.12200000000000001,-2.0767024960261786e-05,-0.11279479104003873
+ihd_composite,Age only,0.12300000000000001,-2.096112018952943e-05,-0.11406365625217102
+ihd_composite,Age only,0.12400000000000001,-2.1155658558589914e-05,-0.11533541841684247
+ihd_composite,Age only,0.125,-2.1350641586779683e-05,-0.1166100874664617
+ihd_composite,Age only,0.126,-1.4364047200259099e-05,-0.11788767337889472
+ihd_composite,Age only,0.127,-1.4494631821800027e-05,-0.11916818617772507
+ihd_composite,Age only,0.128,-1.4625515949353667e-05,-0.12045163593251604
+ihd_composite,Age only,0.129,-1.4756700614513627e-05,-0.12173803275907463
+ihd_composite,Age only,0.13,-1.4888186853616483e-05,-0.12302738681971723
+ihd_composite,Age only,0.131,-1.5019975707769059e-05,-0.12431970832353739
+ihd_composite,Age only,0.132,-1.5152068222875904e-05,-0.12561500752667512
+ihd_composite,Age only,0.133,-1.5284465449666963e-05,-0.12691329473258822
+ihd_composite,Age only,0.134,-1.5417168443725437e-05,-0.12821458029232563
+ihd_composite,Age only,0.135,-1.555017826551584e-05,-0.1295188746048023
+ihd_composite,Age only,0.136,-1.5683495980412237e-05,-0.1308261881170764
+ihd_composite,Age only,0.137,-1.5817122658726703e-05,-0.13213653132462802
+ihd_composite,Age only,0.138,-1.5951059375737956e-05,-0.13344991477164037
+ihd_composite,Age only,0.139,-1.6085307211720194e-05,-0.13476634905128224
+ihd_composite,Age only,0.14,-1.6219867251972163e-05,-0.136085844805993
+ihd_composite,Age only,0.14100000000000001,-8.177370293423186e-06,-0.1374084127277695
+ihd_composite,Age only,0.14200000000000002,-8.24496415588928e-06,-0.13873406355845455
+ihd_composite,Age only,0.14300000000000002,-8.31271576365868e-06,-0.140062808090028
+ihd_composite,Age only,0.14400000000000002,-8.380625669577072e-06,-0.14139465716489955
+ihd_composite,Age only,0.14500000000000002,-8.448694429076562e-06,-0.1427296216762035
+ihd_composite,Age only,0.14600000000000002,-8.516922600190804e-06,-0.144067712568096
+ihd_composite,Age only,0.14700000000000002,-8.585310743570261e-06,-0.14540894083605393
+ihd_composite,Age only,0.14800000000000002,-8.653859422497555e-06,-0.14675331752717607
+ihd_composite,Age only,0.14900000000000002,-8.722569202902941e-06,-0.14810085374048648
+ihd_composite,Age only,0.15,-8.791440653379868e-06,-0.14945156062723997
+ihd_composite,Age only,0.151,-8.860474345200676e-06,-0.15080544939122967
+ihd_composite,Age only,0.152,-8.929670852332382e-06,-0.15216253128909668
+ihd_composite,Age only,0.153,-8.999030751452594e-06,-0.15352281763064224
+ihd_composite,Age only,0.154,-9.068554621965523e-06,-0.15488631977914183
+ihd_composite,Age only,0.155,-9.138243046018127e-06,-0.15625304915166152
+ihd_composite,Age only,0.156,-9.208096608516355e-06,-0.15762301721937674
+ihd_composite,Age only,0.157,-9.278115897141507e-06,-0.1589962355078932
+ihd_composite,Age only,0.158,-9.348301502366717e-06,-0.16037271559757008
+ihd_composite,Age only,0.159,-9.418654017473559e-06,-0.1617524691238454
+ihd_composite,Age only,0.16,-9.489174038568749e-06,-0.16313550777756428
+ihd_composite,Age only,0.161,-9.559862164600995e-06,-0.1645218433053087
+ihd_composite,Age only,0.162,0.0,-0.16591148750973028
+ihd_composite,Age only,0.163,0.0,-0.1673044522498853
+ihd_composite,Age only,0.164,0.0,-0.16870074944157176
+ihd_composite,Age only,0.165,0.0,-0.17010039105766947
+ihd_composite,Age only,0.166,0.0,-0.171503389128482
+ihd_composite,Age only,0.167,0.0,-0.17290975574208164
+ihd_composite,Age only,0.168,0.0,-0.17431950304465627
+ihd_composite,Age only,0.169,0.0,-0.1757326432408592
+ihd_composite,Age only,0.17,0.0,-0.17714918859416146
+ihd_composite,Age only,0.171,0.0,-0.17856915142720628
+ihd_composite,Age only,0.17200000000000001,0.0,-0.17999254412216667
+ihd_composite,Age only,0.17300000000000001,0.0,-0.1814193791211052
+ihd_composite,Age only,0.17400000000000002,0.0,-0.18284966892633658
+ihd_composite,Age only,0.17500000000000002,0.0,-0.18428342610079274
+ihd_composite,Age only,0.17600000000000002,0.0,-0.1857206632683908
+ihd_composite,Age only,0.17700000000000002,0.0,-0.1871613931144034
+ihd_composite,Age only,0.17800000000000002,0.0,-0.1886056283858321
+ihd_composite,Age only,0.17900000000000002,0.0,-0.1900533818917832
+ihd_composite,Age only,0.18000000000000002,0.0,-0.19150466650384637
+ihd_composite,Age only,0.181,0.0,-0.1929594951564762
+ihd_composite,Age only,0.182,0.0,-0.1944178808473765
+ihd_composite,Age only,0.183,0.0,-0.19587983663788738
+ihd_composite,Age only,0.184,0.0,-0.19734537565337498
+ihd_composite,Age only,0.185,0.0,-0.19881451108362452
+ihd_composite,Age only,0.186,0.0,-0.20028725618323584
+ihd_composite,Age only,0.187,0.0,-0.20176362427202216
+ihd_composite,Age only,0.188,0.0,-0.20324362873541127
+ihd_composite,Age only,0.189,0.0,-0.2047272830248508
+ihd_composite,Age only,0.19,0.0,-0.2062146006582148
+ihd_composite,Age only,0.191,0.0,-0.20770559522021506
+ihd_composite,Age only,0.192,0.0,-0.20920028036281432
+ihd_composite,Age only,0.193,0.0,-0.21069866980564314
+ihd_composite,Age only,0.194,0.0,-0.21220077733641932
+ihd_composite,Age only,0.195,0.0,-0.21370661681137143
+ihd_composite,Age only,0.196,0.0,-0.21521620215566414
+ihd_composite,Age only,0.197,0.0,-0.21672954736382816
+ihd_composite,Age only,0.198,0.0,-0.21824666650019198
+ihd_composite,Age only,0.199,0.0,-0.21976757369931837
+ihd_composite,Age only,0.2,0.0,-0.2212922831664425

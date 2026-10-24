@@ -1,0 +1,61 @@
+outcome,model,bin,mean_predicted,observed_fraction
+chronic_heart_disease,Logistic regression (full),1,0.0071156194196581755,0.00845771144278607
+chronic_heart_disease,Logistic regression (full),2,0.010630074295908065,0.00945273631840796
+chronic_heart_disease,Logistic regression (full),3,0.013423868110679272,0.015422885572139304
+chronic_heart_disease,Logistic regression (full),4,0.01637784608167923,0.015422885572139304
+chronic_heart_disease,Logistic regression (full),5,0.019792199812770882,0.01791044776119403
+chronic_heart_disease,Logistic regression (full),6,0.02412259654200044,0.021890547263681594
+chronic_heart_disease,Logistic regression (full),7,0.030043538842811506,0.03383084577114428
+chronic_heart_disease,Logistic regression (full),8,0.039222550945945844,0.03781094527363184
+chronic_heart_disease,Logistic regression (full),9,0.05650831767094693,0.050746268656716415
+chronic_heart_disease,Logistic regression (full),10,0.12131322309650155,0.12686567164179105
+chronic_heart_disease,GBM (sigmoid-calibrated),1,0.010658041996872269,0.006965174129353234
+chronic_heart_disease,GBM (sigmoid-calibrated),2,0.013030332533038563,0.009950248756218905
+chronic_heart_disease,GBM (sigmoid-calibrated),3,0.015303536056556552,0.011442786069651741
+chronic_heart_disease,GBM (sigmoid-calibrated),4,0.01825542882091957,0.014925373134328358
+chronic_heart_disease,GBM (sigmoid-calibrated),5,0.021380108751020727,0.023383084577114428
+chronic_heart_disease,GBM (sigmoid-calibrated),6,0.02515206109939635,0.023383084577114428
+chronic_heart_disease,GBM (sigmoid-calibrated),7,0.0307161687670121,0.025373134328358207
+chronic_heart_disease,GBM (sigmoid-calibrated),8,0.04045000970737645,0.04228855721393035
+chronic_heart_disease,GBM (sigmoid-calibrated),9,0.05706818266137088,0.05223880597014925
+chronic_heart_disease,GBM (sigmoid-calibrated),10,0.10864445572092467,0.12786069651741294
+chronic_heart_disease,GBM (uncalibrated),1,0.008676735193519924,0.006467661691542288
+chronic_heart_disease,GBM (uncalibrated),2,0.01075915501998874,0.011437095972153158
+chronic_heart_disease,GBM (uncalibrated),3,0.012981701660998818,0.017412935323383085
+chronic_heart_disease,GBM (uncalibrated),4,0.015959939153472186,0.013937282229965157
+chronic_heart_disease,GBM (uncalibrated),5,0.019355344382931763,0.015422885572139304
+chronic_heart_disease,GBM (uncalibrated),6,0.023552629719355254,0.0263681592039801
+chronic_heart_disease,GBM (uncalibrated),7,0.03004459387733882,0.0278468423669816
+chronic_heart_disease,GBM (uncalibrated),8,0.04119042258024726,0.04081632653061224
+chronic_heart_disease,GBM (uncalibrated),9,0.05872603643074882,0.05668821481849826
+chronic_heart_disease,GBM (uncalibrated),10,0.11883955761622485,0.1214534594325535
+ihd_composite,Logistic regression (full),1,0.0036640290662876573,0.00398406374501992
+ihd_composite,Logistic regression (full),2,0.005845712074213621,0.007972097658196313
+ihd_composite,Logistic regression (full),3,0.007700783654919129,0.008470353761833582
+ihd_composite,Logistic regression (full),4,0.009625624225747498,0.009965122072745391
+ihd_composite,Logistic regression (full),5,0.011907873189986127,0.011454183266932271
+ihd_composite,Logistic regression (full),6,0.014832440591347414,0.01245640259093174
+ihd_composite,Logistic regression (full),7,0.0188740676816509,0.019930244145490782
+ihd_composite,Logistic regression (full),8,0.02513794448038474,0.024414549078226207
+ihd_composite,Logistic regression (full),9,0.037574418045150916,0.03687095166915795
+ihd_composite,Logistic regression (full),10,0.0886698575141371,0.09412350597609562
+ihd_composite,GBM (sigmoid-calibrated),1,0.006051745945075269,0.0049800796812749
+ihd_composite,GBM (sigmoid-calibrated),2,0.008338781800384852,0.005979073243647235
+ihd_composite,GBM (sigmoid-calibrated),3,0.009952592174669896,0.008968609865470852
+ihd_composite,GBM (sigmoid-calibrated),4,0.01180000388699502,0.007972097658196313
+ihd_composite,GBM (sigmoid-calibrated),5,0.013960431178547466,0.0099601593625498
+ihd_composite,GBM (sigmoid-calibrated),6,0.01679755185209019,0.016442451420029897
+ihd_composite,GBM (sigmoid-calibrated),7,0.02081381973405803,0.017438963627304436
+ihd_composite,GBM (sigmoid-calibrated),8,0.027024348746780804,0.030393622321873443
+ihd_composite,GBM (sigmoid-calibrated),9,0.03762968317119414,0.037867463876432486
+ihd_composite,GBM (sigmoid-calibrated),10,0.0724352874392001,0.08964143426294821
+ihd_composite,GBM (uncalibrated),1,0.004081347194857464,0.0049800796812749
+ihd_composite,GBM (uncalibrated),2,0.005707708903194644,0.005979073243647235
+ihd_composite,GBM (uncalibrated),3,0.006938021455605114,0.006975585450921774
+ihd_composite,GBM (uncalibrated),4,0.008724066594899379,0.008968609865470852
+ihd_composite,GBM (uncalibrated),5,0.010767530605371469,0.011454183266932271
+ihd_composite,GBM (uncalibrated),6,0.01350500534413457,0.016442451420029897
+ihd_composite,GBM (uncalibrated),7,0.0177023644075226,0.017928286852589643
+ihd_composite,GBM (uncalibrated),8,0.024822750440545684,0.027916251246261216
+ihd_composite,GBM (uncalibrated),9,0.03812010557760988,0.04185351270553064
+ihd_composite,GBM (uncalibrated),10,0.09120737468492605,0.08715139442231076

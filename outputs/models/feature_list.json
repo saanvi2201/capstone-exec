@@ -1,0 +1,71 @@
+{
+  "continuous": [
+    "age_years",
+    "average_systolic_bp_mmHg",
+    "average_diastolic_bp_mmHg",
+    "average_pulse_bpm",
+    "BMI"
+  ],
+  "categorical": [
+    "sex",
+    "diabetes",
+    "tobacco_status",
+    "vigorous_activity_frequency",
+    "moderate_activity_frequency",
+    "family_history_hypertension_any",
+    "family_history_diabetes_any",
+    "family_history_heart_disease_any",
+    "family_history_stroke_any"
+  ],
+  "feature_sets": {
+    "full": {
+      "continuous": [
+        "age_years",
+        "average_systolic_bp_mmHg",
+        "average_diastolic_bp_mmHg",
+        "average_pulse_bpm",
+        "BMI"
+      ],
+      "categorical": [
+        "sex",
+        "diabetes",
+        "tobacco_status",
+        "vigorous_activity_frequency",
+        "moderate_activity_frequency",
+        "family_history_hypertension_any",
+        "family_history_diabetes_any",
+        "family_history_heart_disease_any",
+        "family_history_stroke_any"
+      ]
+    },
+    "age_only": {
+      "continuous": [
+        "age_years"
+      ],
+      "categorical": []
+    },
+    "age_sex": {
+      "continuous": [
+        "age_years"
+      ],
+      "categorical": [
+        "sex"
+      ]
+    },
+    "who_predictors": {
+      "continuous": [
+        "age_years",
+        "average_systolic_bp_mmHg",
+        "BMI"
+      ],
+      "categorical": [
+        "sex",
+        "current_tobacco_any"
+      ]
+    }
+  },
+  "outcomes": {
+    "chd": "chronic_heart_disease",
+    "ihd": "ihd_composite"
+  }
+}
