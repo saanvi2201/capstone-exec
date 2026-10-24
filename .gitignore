@@ -1,0 +1,5 @@
+# LASI source and processed datasets (keep local; do not commit)
+/data/lasi/
+
+# Generated trained model files
+/outputs/models/*.joblib
